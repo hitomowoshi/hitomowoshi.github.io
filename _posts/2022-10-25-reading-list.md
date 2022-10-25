@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Reading List"
+author: "Fuku"
+tags: Reading
+---
+
+# Clean Architecture
+
+[The Clean Architecture by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+[Dependency Injection in a nutshell - appliedgo.net](https://appliedgo.net/di/)
+
+# To-read List
+
+[Applying The Clean Architecture to Go applications](https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
+
+[Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
+
+[Plugins in Go - appliedgo.net](https://appliedgo.net/plugins/)
