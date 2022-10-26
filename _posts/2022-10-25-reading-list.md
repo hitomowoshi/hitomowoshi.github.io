@@ -18,3 +18,5 @@ tags: Reading
 [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 
 [Plugins in Go - appliedgo.net](https://appliedgo.net/plugins/)
+
+[Golang: stop trusting your dependencies!](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fitnext.io%2Fgolang-stop-trusting-your-dependencies-a4c916533b04)

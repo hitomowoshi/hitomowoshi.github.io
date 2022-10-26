@@ -14,3 +14,7 @@ hidden: true
 > I don’t concern myself with design patterns in Golang, mainly because most of them in my opinion complicate things unnecessarily.
 
 > I know that obsessing about design patterns can make the code harder to read, and that it is not an exact science. But we should embrace and welcome them, not fear them.
+
+## Golang and security
+
+> Go ecosystem is nice for networking stuff, so probably we gonna have more and more "hacking" stuff written in go
