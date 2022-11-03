@@ -24,3 +24,30 @@ Mình vẫn nhớ cái ngày mình học câp hai đó, bố đi nghe diễn thu
 Có lẽ vì cái gì mình cũng chỉ có một ít, chứ không đến mức quá cực đoan như những đứa trong sách, nên con đường mình đi cũng khác chúng nó, và đó có lẽ là một may mắn. Mình không sa đà vào chơi bời lêu lổng, không dùng chất kích thích, không mắc bệnh tâm thần và thậm chí đến giờ mình cũng chưa trong mối quan hệ yêu đương nào và cũng chưa quan hệ tình dục với ai. Mà thề, đọc cuốn này sốc vch, mình tự hỏi chúng nó làm chuyện đó sớm vậy sao, thực sự cảm thấy nhân sinh quan cua mình có vấn đề :)))
 
 Cảm thấy mình may mắn vì mình không sa đọa. Một phần có lẽ là do mình có phương pháp để giải tỏa sự ức chế cảm xúc khi phải sống trong thế giới bế tắc. Mình thích học, hồi đó cảm giác giải được một bài toán khó là niềm vui khôn tả. Mình không giao tiếp chơi bời với chị em họ hàng và bạn bè xung quanh nên mình gần như không bị ảnh hưởng bởi những định kiến xã hội, sự vô duyên của hàng xóm họ hàng cô dì chú bác không làm ảnh hưởng lên mình (vì họ có cơ hội tiếp xúc mình đâu chứ). Và chính việc thích học + thành tích học của mình không đến nỗi tệ, thực ra phải gọi là nổi bật ấy chứ, nó vừa hay thỏa mãn sự sĩ diện của bố mẹ mình, nên bọn họ không căng thẳng với mình nữa, mặc dù mình biết đâu đó trong tâm trí mình bọn họ vãn luôn là một thứ áp lực.
+
+
+> Chúng ta dễ vướng vào cảm giác ganh tỵ vì nguyên do đơn giản là chúng ta quen thuộc với cuộc đời của mình hơn cuộc đời của người khác.
+>
+> -- BÀN VỀ HAM MUỐN - William B. Irvine
+
+> chúng ta phần lớn không biết đến những nỗ lực, nhu cầu và hành động tử tế của những người xung quanh. Do đó, khi điều tốt đẹp đến với họ, ta không hề nhận ra họ xứng đáng với những điều đó, hay ở mức độ nào đó, họ xứng đáng với chúng nhiều như chúng ta.
+>
+> -- BÀN VỀ HAM MUỐN - William B. Irvine
+
+> Thông minh là năng lực thích nghi với thay đổi.
+>
+> -- Stephen Hawking
+
+>  Thay vì chỉ chăm chăm theo đuổi 1 góc nhìn, chúng ta nên phát triển nhiều góc nhìn khác nhau để suy nghĩ về thế giới. Càng có nhiều góc nhìn, bạn càng có thêm công cụ để tư duy.
+
+> Tình yêu là từ dùng để chỉ những ham muốn tình dục của người trẻ, thói quen của người trung niên và sự phụ thuộc lẫn nhau của người già
+>
+> -- John Ciardi
+
+> Những người đã chuẩn bị cho khổ đau là những người kiên cường nhất trước khổ đau. Những người trông chờ sự khảo nghiệm là những người sẵn sàng nhất để đối mặt với khảo nghiệm. Kiên định đâu phải là lúc nào cũng cảm thấy phấn chấn, mà nghĩa là đôi khi bạn bằng lòng với cảm giác không mấy tốt đẹp.
+>
+> -- markmanson.net
+
+> Niềm vui của việc cho một cách tự nguyện và không giới hạn chuyển thành nỗi lo sợ về việc có thể không được nhận. Người ấy – chồng bạn, người yêu bạn, con bạn – tự nhiên trở thành quá quan trọng với bạn. Bạn lo lắng về những gì có thể xảy ra. Những gì họ sắp làm. Và ở thời điểm đó, tình yêu dừng lại.
+
+
