@@ -50,4 +50,4 @@ Cảm thấy mình may mắn vì mình không sa đọa. Một phần có lẽ l
 
 > Niềm vui của việc cho một cách tự nguyện và không giới hạn chuyển thành nỗi lo sợ về việc có thể không được nhận. Người ấy – chồng bạn, người yêu bạn, con bạn – tự nhiên trở thành quá quan trọng với bạn. Bạn lo lắng về những gì có thể xảy ra. Những gì họ sắp làm. Và ở thời điểm đó, tình yêu dừng lại.
 
-
+> 

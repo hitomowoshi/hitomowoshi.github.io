@@ -19,6 +19,10 @@ hidden: true
 
 > Go ecosystem is nice for networking stuff, so probably we gonna have more and more "hacking" stuff written in go
 
+## Frameworks
+
+> What I found works best for me is to read through one or two frameworks to learn their implementation architecture and then build a very minimalistic version that works best for me!
+
 ## DÀNH CẢ THANH XUÂN CHO NHỮNG ĐIỀU VỤN VẶT NƠI CÔNG SỞ
 
 This topic make me think that I should do something to prevent this

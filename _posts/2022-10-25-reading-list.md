@@ -11,6 +11,10 @@ tags: Reading
 
 [Dependency Injection in a nutshell - appliedgo.net](https://appliedgo.net/di/)
 
+# Golang
+
+[https://threedots.tech/post/best-go-framework/](https://threedots.tech/post/best-go-framework/)
+
 # To-read List
 
 [Applying The Clean Architecture to Go applications](https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
