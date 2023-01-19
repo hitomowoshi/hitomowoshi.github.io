@@ -14,6 +14,8 @@ tags: Reading
 # Golang
 
 [https://threedots.tech/post/best-go-framework/](https://threedots.tech/post/best-go-framework/)
+[Concurrency in modern programming languages: Golang](https://deepu.tech/concurrency-in-modern-languages-go/)
+
 
 # To-read List
 
