@@ -26,3 +26,7 @@ tags: Reading
 [Plugins in Go - appliedgo.net](https://appliedgo.net/plugins/)
 
 [Golang: stop trusting your dependencies!](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fitnext.io%2Fgolang-stop-trusting-your-dependencies-a4c916533b04)
+
+# Lives & Works
+
+[Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
