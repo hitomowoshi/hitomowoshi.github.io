@@ -39,7 +39,7 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :heavy_check_mark: [The Clean Architecture by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-:face_with_spiral_eyes: :arrows_counterclockwise: [Dependency Injection in a nutshell - appliedgo.net](https://appliedgo.net/di/)
+:face_with_spiral_eyes: [Dependency Injection in a nutshell - appliedgo.net](https://appliedgo.net/di/)
 
 :memo: [Applying The Clean Architecture to Go applications](https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 
@@ -97,4 +97,5 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 Here comes list of blogs that I want to follow, interesting sources of value posts.
 
 [https://cuonglm.xyz/post/](https://cuonglm.xyz/post/)
+
 [https://holdenrehg.com/blog](https://holdenrehg.com/blog)
