@@ -1,32 +1,100 @@
 ---
 layout: post
-title:  "Reading List"
+title:  "Mailovemisa's Reading List"
 author: "Fuku"
 tags: Reading
 ---
 
-# Clean Architecture
+> Reading and writing are the most nourishing form of meditation anyone has so far found
+>
+> - Kurt Vonnegut
 
-[The Clean Architecture by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+Inspired by [@richstone](https://richstone.io/reading-list/)
 
-[Dependency Injection in a nutshell - appliedgo.net](https://appliedgo.net/di/)
+# Legend
+
+:eyes: - currently reading
+
+:memo: - TODO
+
+:arrows_counterclockwise: - TO-REVISIT
+
+:put_litter_in_its_place: - stop reading for now
+
+:heavy_check_mark: - Donw, from start to finish (more or less)
+
+:headephones: - audio format
+
+:runner: - speed read (might include jumping some sections and generally going through quickly, potentially slowing down in interesting spots)
+
+:bulb: - idea (not sure yet if I really need to tackle it)
+
+:thinking: - topic, needs books
+
+:face_with_spiral_eyes: - At the moment I read it, I don't have enough karma to digest all the content or feels confident that I understand it clearly (it is difficult for me to understand the whole idea)
+
+:books: - a series of posts
+
+# Software Architecture & Design
+
+:heavy_check_mark: [The Clean Architecture by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+:face_with_spiral_eyes: :arrows_counterclockwise: [Dependency Injection in a nutshell - appliedgo.net](https://appliedgo.net/di/)
+
+:memo: [Applying The Clean Architecture to Go applications](https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
+
+:memo: :face_with_spiral_eyes: [The LMAX Architecture - by Martin Fowler](https://martinfowler.com/articles/lmax.html)
 
 # Golang
 
-[https://threedots.tech/post/best-go-framework/](https://threedots.tech/post/best-go-framework/)
-[Concurrency in modern programming languages: Golang](https://deepu.tech/concurrency-in-modern-languages-go/)
+:heavy_check_mark: [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
 
+:memo: [Concurrency in modern programming languages: Golang](https://deepu.tech/concurrency-in-modern-languages-go/)
 
-# To-read List
+:memo: [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 
-[Applying The Clean Architecture to Go applications](https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
+:memo: [Plugins in Go - appliedgo.net](https://appliedgo.net/plugins/)
 
-[Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
+:memo: [Golang: stop trusting your dependencies!](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fitnext.io%2Fgolang-stop-trusting-your-dependencies-a4c916533b04)
 
-[Plugins in Go - appliedgo.net](https://appliedgo.net/plugins/)
+:eyes: :books: [Go'ing Insane](https://jesseduffield.com/Gos-Shortcomings-5/)
 
-[Golang: stop trusting your dependencies!](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fitnext.io%2Fgolang-stop-trusting-your-dependencies-a4c916533b04)
+:memo: [Traefik + Docker + Golang — a Simple Step by Step Guide](https://medium0.com/@saadali.ics/traefik-docker-golang-a-simple-step-by-step-guide-4a61fd0e35d)
+
+:memo: :eyes: [[Cron Job] - Tạo bot Slack nhắc nhở chạy bộ tập thể dục với Golang](https://viblo.asia/p/cron-job-tao-bot-slack-nhac-nho-chay-bo-tap-the-duc-voi-golang-5pPLk0GyVRZ?fbclid=IwAR3w0ROudxvHL9_LVJSzKckJDee7JRutflCDMIrUqLMp1KqXSS_iiU788fo)
+
+# Perfomance & Benchmarks
+
+:eyes: :books: [Tối ưu database](https://viblo.asia/s/toi-uu-database-DVK2jDrnKLj)
+
+:heavy_check_mark: :face_with_spiral_eyes: [Tìm hiểu về khái niệm Mechanical Sympathy trong phần mềm](https://batnamv.medium.com/t%C3%ACm-hi%E1%BB%83u-v%E1%BB%81-kh%C3%A1i-ni%E1%BB%87m-mechanical-sympathy-v%C3%A0-b%E1%BB%99-th%C6%B0-vi%E1%BB%87n-lmax-disruptor-4d553dc7fa55)
 
 # Lives & Works
 
-[Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
+:heavy_check_mark: [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
+
+:memo: [Contracts you should never sign](https://vadimkravcenko.com/shorts/contracts-you-should-never-sign/)
+
+:memo: [Interviews-as-a-Service: The Bad and The Ugly](https://vadimkravcenko.com/shorts/interviews-as-a-service/)
+
+:memo: [The silent majority](https://vadimkravcenko.com/shorts/the-silent-majority/)
+
+:heavy_check_mark: [Software Dark Ages](https://threedots.tech/post/software-dark-ages/)
+
+:heavy_check_mark: [Lên thuyền](https://viblo.asia/p/len-thuyen-gwd43B83VX9)
+
+:heavy_check_mark: [7 BƯỚC TIẾN TỚI TỰ DO TÀI CHÍNH – DAVE RAMSEY](https://thepresentwriter.com/7-buoc-tien-toi-tu-do-tai-chinh-dave-ramsey/)
+
+:heavy_check_mark: Tâm Lý Học Về Rối Loạn Nhân Cách Tránh Né - Okada Takashi
+
+:heavy_check_mark: Reasons To Stay Alive - Matt Haig
+
+:heavy_check_mark: Là an ủi - Matt Haig
+
+
+# Blogs
+
+Here comes list of blogs that I want to follow, interesting sources of value posts.
+
+[https://cuonglm.xyz/post/](https://cuonglm.xyz/post/)
+[https://holdenrehg.com/blog](https://holdenrehg.com/blog)
