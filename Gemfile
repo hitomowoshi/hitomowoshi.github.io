@@ -7,4 +7,5 @@ gem "jekyll-feed", "~> 0.10"
 
 group :jekyll_plugins do
     gem 'octopress-quote-tag'
+    gem 'jemoji'
 end
