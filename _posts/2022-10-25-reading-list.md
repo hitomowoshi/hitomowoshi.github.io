@@ -23,7 +23,7 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :heavy_check_mark: - Donw, from start to finish (more or less)
 
-:headephones: - audio format
+:headphones: - audio format
 
 :runner: - speed read (might include jumping some sections and generally going through quickly, potentially slowing down in interesting spots)
 
@@ -31,19 +31,21 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :thinking: - topic, needs books
 
-:face_with_spiral_eyes: - At the moment I read it, I don't have enough karma to digest all the content or feels confident that I understand it clearly (it is difficult for me to understand the whole idea)
+:upside_down_face: - At the moment I read it, I don't have enough karma to digest all the content or feels confident that I understand it clearly (it is difficult for me to understand the whole idea)
 
 :books: - a series of posts
+
+:smiling_face_with_tear: on hold because I cannot digest the content, will get back later
 
 # Software Architecture & Design
 
 :heavy_check_mark: [The Clean Architecture by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-:face_with_spiral_eyes: [Dependency Injection in a nutshell - appliedgo.net](https://appliedgo.net/di/)
+:upside_down_face: [Dependency Injection in a nutshell - appliedgo.net](https://appliedgo.net/di/)
 
 :memo: [Applying The Clean Architecture to Go applications](https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 
-:memo: :face_with_spiral_eyes: [The LMAX Architecture - by Martin Fowler](https://martinfowler.com/articles/lmax.html)
+:memo: :upside_down_face: [The LMAX Architecture - by Martin Fowler](https://martinfowler.com/articles/lmax.html)
 
 # Golang
 
@@ -67,7 +69,7 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :eyes: :books: [Tối ưu database](https://viblo.asia/s/toi-uu-database-DVK2jDrnKLj)
 
-:heavy_check_mark: :face_with_spiral_eyes: [Tìm hiểu về khái niệm Mechanical Sympathy trong phần mềm](https://batnamv.medium.com/t%C3%ACm-hi%E1%BB%83u-v%E1%BB%81-kh%C3%A1i-ni%E1%BB%87m-mechanical-sympathy-v%C3%A0-b%E1%BB%99-th%C6%B0-vi%E1%BB%87n-lmax-disruptor-4d553dc7fa55)
+:heavy_check_mark: :upside_down_face: [Tìm hiểu về khái niệm Mechanical Sympathy trong phần mềm](https://batnamv.medium.com/t%C3%ACm-hi%E1%BB%83u-v%E1%BB%81-kh%C3%A1i-ni%E1%BB%87m-mechanical-sympathy-v%C3%A0-b%E1%BB%99-th%C6%B0-vi%E1%BB%87n-lmax-disruptor-4d553dc7fa55)
 
 # Lives & Works
 
@@ -90,6 +92,12 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 :heavy_check_mark: Reasons To Stay Alive - Matt Haig
 
 :heavy_check_mark: Là an ủi - Matt Haig
+
+:heavy_check_mark: Tìm mình trong thế giới hậu tuổi thơ - Đặng Hoàng Giang
+
+:eyes: Bàn về ham muốn - William B. Irvine
+
+:eyes: :upside_down_face: :smiling_face_with_tear: - Những lời giáo huấn của Epictetus - Epictetus
 
 
 # Blogs
