@@ -18,3 +18,5 @@ It could be chaotic, of course.
 # A little bit about me
 
 I will use the name *Fuku* most of the time
+
+*Mai*, *Mailovemisa*, *Fuku*, *Hito* are the same person (me)

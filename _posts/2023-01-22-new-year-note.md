@@ -2,7 +2,7 @@
 layout: post
 title: "Some words for the Moew Year"
 author: "Fuku"
-tags: Reading
+tags: Random
 ---
 
 Một năm đáng nhớ. Giờ nhìn lại thì thấy đa số thời gian của năm vừa qua mình dùng để vật lộn với chính mình.

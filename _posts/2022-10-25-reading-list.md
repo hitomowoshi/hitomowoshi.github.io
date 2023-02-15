@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Mailovemisa's Reading List"
+title:  "Fuku's Reading List"
 author: "Fuku"
 tags: Reading
+sticky: true
 ---
 
-> Reading and writing are the most nourishing form of meditation anyone has so far found
->
-> - Kurt Vonnegut
+<blockquote class="blockquote">
+    <div class="quote-content">Reading and writing are the most nourishing form of meditation anyone has so far found.</div>
+    <footer class="blockquote-footer"><cite title="Source Title">- Kurt Vonnegut -</cite></footer>
+</blockquote>
 
 Inspired by [@richstone](https://richstone.io/reading-list/)
 
@@ -35,7 +37,7 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :books: - a series of posts
 
-:smiling_face_with_tear: on hold because I cannot digest the content, will get back later
+:dizzy_face: on hold because I cannot digest the content, will get back later
 
 # Software Architecture & Design
 
@@ -46,6 +48,8 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 :memo: [Applying The Clean Architecture to Go applications](https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 
 :memo: :upside_down_face: [The LMAX Architecture - by Martin Fowler](https://martinfowler.com/articles/lmax.html)
+
+:heavy_check_mark: :upside_down_face: [Arcturus - Inventory Processing System of Tiki](https://engineering.tiki.vn/arcturus-inventory-processing-system/)
 
 # Golang
 
@@ -79,13 +83,13 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :memo: [Interviews-as-a-Service: The Bad and The Ugly](https://vadimkravcenko.com/shorts/interviews-as-a-service/)
 
-:memo: [The silent majority](https://vadimkravcenko.com/shorts/the-silent-majority/)
+:memo: :arrows_counterclockwise: [The silent majority](https://vadimkravcenko.com/shorts/the-silent-majority/)
 
 :heavy_check_mark: [Software Dark Ages](https://threedots.tech/post/software-dark-ages/)
 
 :heavy_check_mark: [Lên thuyền](https://viblo.asia/p/len-thuyen-gwd43B83VX9)
 
-:heavy_check_mark: [7 BƯỚC TIẾN TỚI TỰ DO TÀI CHÍNH – DAVE RAMSEY](https://thepresentwriter.com/7-buoc-tien-toi-tu-do-tai-chinh-dave-ramsey/)
+:heavy_check_mark: :arrows_counterclockwise: [7 BƯỚC TIẾN TỚI TỰ DO TÀI CHÍNH – DAVE RAMSEY](https://thepresentwriter.com/7-buoc-tien-toi-tu-do-tai-chinh-dave-ramsey/)
 
 :heavy_check_mark: Tâm Lý Học Về Rối Loạn Nhân Cách Tránh Né - Okada Takashi
 
@@ -97,7 +101,7 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :eyes: Bàn về ham muốn - William B. Irvine
 
-:eyes: :upside_down_face: :smiling_face_with_tear: - Những lời giáo huấn của Epictetus - Epictetus
+:eyes: :upside_down_face: :dizzy_face: Những lời giáo huấn của Epictetus - Epictetus
 
 
 # Blogs

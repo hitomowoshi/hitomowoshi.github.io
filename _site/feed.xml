@@ -1,7 +1,285 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-20T17:04:57+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hitomowoshi</title><subtitle>I keep things for myself</subtitle><author><name>Hitomowoshi</name><email>maiptn8399@gmail.com</email></author><entry><title type="html">Reading Notes</title><link href="http://localhost:4000/2022-10-20/reading-notes" rel="alternate" type="text/html" title="Reading Notes" /><published>2022-10-20T00:00:00+07:00</published><updated>2022-10-20T00:00:00+07:00</updated><id>http://localhost:4000/2022-10-20/reading-notes</id><content type="html" xml:base="http://localhost:4000/2022-10-20/reading-notes">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-15T12:02:52+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hitomowoshi</title><subtitle>I keep things for myself</subtitle><author><name>Hitomowoshi</name><email>maiptn8399@gmail.com</email></author><entry><title type="html">Share To Learn Draft</title><link href="http://localhost:4000/2023-02-15/share-to-learn-draft" rel="alternate" type="text/html" title="Share To Learn Draft" /><published>2023-02-15T00:00:00+07:00</published><updated>2023-02-15T00:00:00+07:00</updated><id>http://localhost:4000/2023-02-15/share-to-learn-draft</id><content type="html" xml:base="http://localhost:4000/2023-02-15/share-to-learn-draft">&lt;p&gt;Some Share To Learn Idea but just draft &amp;amp; brief content&lt;/p&gt;
+
+&lt;h1 id=&quot;mechanical-sympathy&quot;&gt;Mechanical Sympathy&lt;/h1&gt;
+
+&lt;p&gt;ref:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://batnamv.medium.com/t%C3%ACm-hi%E1%BB%83u-v%E1%BB%81-kh%C3%A1i-ni%E1%BB%87m-mechanical-sympathy-v%C3%A0-b%E1%BB%99-th%C6%B0-vi%E1%BB%87n-lmax-disruptor-4d553dc7fa55&quot;&gt;Tìm hiểu về khái niệm Mechanical Sympathy trong phần mềm.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mkralka.github.io/blog/concurrency-is-hard&quot;&gt;Concurrency is hard&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-ideadefinition&quot;&gt;the idea/definition&lt;/h2&gt;
+&lt;p&gt;Man and machine working togenther in harmony
+Sorfware and hardware working together in harmony
+Ki Ken Tai Ichi harmonize the internal energy (ki), the sword (ken) and the body (tai) to maximize the power of your strike&lt;/p&gt;
+
+&lt;p&gt;Apply a Scentific Mindset:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Draw on Experience&lt;/li&gt;
+  &lt;li&gt;Do your Reasearch&lt;/li&gt;
+  &lt;li&gt;Learn by Experimenting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Understanding the safety features will greatly improve your understanding of the model:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bounds checking&lt;/strong&gt; is any method of detecting whether a variable is within some bounds before it is used.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;forward error correction&lt;/strong&gt; is a method of obtaining error control in data transmission in which the source (transmitter) sends redundant data and the destination (receiver) recognizes only the portion of the data that contains no apparent errors&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RAID (redundant array of independent disks)&lt;/strong&gt; is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both.&lt;/li&gt;
+  &lt;li&gt;Circuit Breaker (pattern)&lt;/li&gt;
+  &lt;li&gt;replication&lt;/li&gt;
+  &lt;li&gt;congestion control&lt;/li&gt;
+  &lt;li&gt;error/exception handling&lt;/li&gt;
+  &lt;li&gt;automatic memory management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Apply telemetry and perform real-time monitoring on the data
+Requires efficient collection, centralised aggregation, analysis, and alerting&lt;/p&gt;
+
+&lt;h2 id=&quot;mechanical-sympathy-in-action&quot;&gt;Mechanical Sympathy in Action:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It is all about experience and understanding executed with finesse&lt;/li&gt;
+  &lt;li&gt;Know where the limits are and plan to stay inside them&lt;/li&gt;
+  &lt;li&gt;React appropriately to spikes in load…&lt;/li&gt;
+  &lt;li&gt;…apply batching to amortise costs and back-off strategiesto prevent failure&lt;/li&gt;
+  &lt;li&gt;Do you know the fundamentals of how your platform works?&lt;/li&gt;
+  &lt;li&gt;Networks are faster than Storage&lt;/li&gt;
+  &lt;li&gt;Memory Access Patterns Matter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why&quot;&gt;Why&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chia sẻ bộ nhớ (share memory) giữa các thread rất dễ gặp lỗi, chúng ta phải rất cẩn thận khi sử dụng.&lt;/li&gt;
+  &lt;li&gt;Sử dụng bộ nhớ của CPU (CPU cache) nhanh hơn sử dụng bộ nhớ đệm chính (DRAM), nhưng nếu sử dụng mà không hiểu rõ cách hoạt động (ví dụ như khái niệm cache lines v.V…) sẽ làm mọi thứ trở nên tồi tệ hơn.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;shared-memory&quot;&gt;Shared memory&lt;/h2&gt;
+
+&lt;p&gt;Các process/thread của CPU sẽ sử dụng chung một vùng không gian nhớ chung (share memory). Việc tương tác giữa hai process sẽ hoàn toàn do việc đọc/ghi trên vùng nhớ chung này. OS không hề can thiệp vào quá trình này, thế nên shared memory là phương pháp nhanh nhất (nhanh về mặt tốc độ) để các process nói chuyện với nhau. Tuy nhiên, nhược điểm của phương pháp này là các process phải tự quản lý việc đọc ghi dữ liệu, và quản lý việc tranh chấp tài nguyên (race condition).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Race condition&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CPU caches&lt;/strong&gt;
+L1, L2, L3, Main memory (DRAM)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;cache lines&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;concurrent-programming&quot;&gt;Concurrent programming&lt;/h2&gt;
+
+&lt;h3 id=&quot;tương-tranh---mutual-exclusion-cơ-chế-loại-trừ-lẫn-nhau&quot;&gt;Tương tranh - Mutual Exclusion (cơ chế loại trừ lẫn nhau)&lt;/h3&gt;
+
+&lt;p&gt;Trong ngành khoa học máy tính, tương tranh là một tính chất của các hệ thống bao gồm các tính toán được thực thi trùng nhau về mặt thời gian, trong đó các tính toán chạy đồng thời có thể chia sẻ các tài nguyên dùng chung. Hoặc theo lời của Edsger Dijkstra: “Tương tranh xảy ra khi nhiều hơn một luồng thực thi có thể chạy đồng thời.” Việc cùng sử dụng các tài nguyên dùng chung, chẳng hạn bộ nhớ hay file dữ liệu trên đĩa cứng, là nguồn gốc của nhiều khó khăn. Các tranh đoạt điều khiển (race condition) liên quan đến các tài nguyên dùng chung có thể dẫn đến ứng xử không đoán trước được của hệ thống. Việc sử dụng cơ chế loại trừ lẫn nhau(mutual exclusion) có thể ngăn chặn các tình huống chạy đua, nhưng có thể dẫn đến các vấn đề như tình trạng bế tắc (deadlock) và đói tài nguyên (resource starvation).&lt;/p&gt;
+
+&lt;p&gt;Tóm lại Mutual Exclusion là ta phải đảm bảo trong một thời điểm chỉ duy nhất 1 thread được thực thi vào share memeory. -&amp;gt; locking/CAS(compare and swap)&lt;/p&gt;
+
+&lt;h3 id=&quot;visibility-of-change&quot;&gt;Visibility of Change&lt;/h3&gt;
+
+&lt;p&gt;“Những thay đổi được thực hiện bởi một luồng (thread) với dữ liệu chia sẻ (share data), sẽ được thông báo và hiển thị (visible) ngay lập tức với các thread khác để duy trì tính nhất quán của dữ liệu (data consistency)”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;sharing memory by communicating&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lmax-disruptor&quot;&gt;LMAX Disruptor&lt;/h2&gt;
+
+&lt;h3 id=&quot;ring-buffer&quot;&gt;Ring Buffer&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://engineering.tiki.vn/arcturus-inventory-processing-system/&quot;&gt;Arcturus — Inventory Processing System&lt;/a&gt; an application of LMAX Disruptor&lt;/p&gt;
+
+&lt;h1 id=&quot;the-silent-majority&quot;&gt;The silent majority&lt;/h1&gt;
+
+&lt;h1 id=&quot;tăng-tốc-data-base&quot;&gt;Tăng tốc data base&lt;/h1&gt;</content><author><name>Fuku</name></author><category term="Random" /><summary type="html">Some Share To Learn Idea but just draft &amp;amp; brief content</summary></entry><entry><title type="html">Mechanical Sympathy</title><link href="http://localhost:4000/2023-02-06/mechanical-sympathy" rel="alternate" type="text/html" title="Mechanical Sympathy" /><published>2023-02-06T00:00:00+07:00</published><updated>2023-02-06T00:00:00+07:00</updated><id>http://localhost:4000/2023-02-06/mechanical-sympathy</id><content type="html" xml:base="http://localhost:4000/2023-02-06/mechanical-sympathy"></content><author><name>Fuku</name></author><category term="Reading" /><summary type="html"></summary></entry><entry><title type="html">Some words for the Moew Year</title><link href="http://localhost:4000/2023-01-22/new-year-note" rel="alternate" type="text/html" title="Some words for the Moew Year" /><published>2023-01-22T00:00:00+07:00</published><updated>2023-01-22T00:00:00+07:00</updated><id>http://localhost:4000/2023-01-22/new-year-note</id><content type="html" xml:base="http://localhost:4000/2023-01-22/new-year-note">&lt;p&gt;Một năm đáng nhớ. Giờ nhìn lại thì thấy đa số thời gian của năm vừa qua mình dùng để vật lộn với chính mình.
+Có những cuộc gặp gỡ, những sự kiện xảy ra đã trigger phần bóng tối mình cố tình bỏ quên bấy lâu nay.
+Và nó đồng thời giúp mình nhận ra sự non nớt và thiếu sót trong chính bản thân mình.
+Nó cũng khiến mình nhận ra điều mình thật sự mong muốn là gì.&lt;/p&gt;
+
+&lt;h1 id=&quot;recap-lại-2022&quot;&gt;Recap lại 2022&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Moods swings thảm hại, nhất là khi nghĩ về bố mẹ và những lúc công việc không trôi.&lt;/li&gt;
+  &lt;li&gt;Mình đã đọc sách nhiều hơn&lt;/li&gt;
+  &lt;li&gt;Mình đã bắt đầu tập piano từ tháng 6&lt;/li&gt;
+  &lt;li&gt;tháng 11 được didi Carushila khai tâm thiền&lt;/li&gt;
+  &lt;li&gt;Khoảng thời gian chơi cùng bé Pía và Gạo rất vui&lt;/li&gt;
+  &lt;li&gt;Mình đã tham gia nhóm học GCP nhưng đa số các bài lab vẫn chỉ là follow máy móc&lt;/li&gt;
+  &lt;li&gt;Mình đã tập giải đề leetcode, với tốc độ rùa bò&lt;/li&gt;
+  &lt;li&gt;Mình đã đăng ký một học bổng hồi gần cuối năm, nhưng với kết quả test vòng 1 thảm hại thì chắc là bị out luôn rồi&lt;/li&gt;
+  &lt;li&gt;Mình đã “mở lòng” với một người, nói ra những điều mình chưa bao giờ dám nới với ai cả. Và thực sự thì nó cũng không tệ lắm, ít nhất là sau đó mình đã nhận được những lời khuyên vô cùng ý nghĩa, giúp mình bình tĩnh hơn rất nhiều.&lt;/li&gt;
+  &lt;li&gt;Có những lời khuyên, câu nói mà mình muốn ghi nhớ, đại ý là;
+    &lt;ul&gt;
+      &lt;li&gt;Nghĩ ít thôi và hãy làm nhiều lên&lt;/li&gt;
+      &lt;li&gt;Đừng nghĩ rằng mình quá đặc biệt&lt;/li&gt;
+      &lt;li&gt;Hãy cứ làm hết sức mình thôi&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;cho-2023&quot;&gt;Cho 2023&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Làm ơn hãy trưởng thành hơn&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Fuku</name></author><category term="Random" /><summary type="html">Một năm đáng nhớ. Giờ nhìn lại thì thấy đa số thời gian của năm vừa qua mình dùng để vật lộn với chính mình. Có những cuộc gặp gỡ, những sự kiện xảy ra đã trigger phần bóng tối mình cố tình bỏ quên bấy lâu nay. Và nó đồng thời giúp mình nhận ra sự non nớt và thiếu sót trong chính bản thân mình. Nó cũng khiến mình nhận ra điều mình thật sự mong muốn là gì.</summary></entry><entry><title type="html">Fuku’s Reading List</title><link href="http://localhost:4000/2022-10-25/reading-list" rel="alternate" type="text/html" title="Fuku’s Reading List" /><published>2022-10-25T00:00:00+07:00</published><updated>2022-10-25T00:00:00+07:00</updated><id>http://localhost:4000/2022-10-25/reading-list</id><content type="html" xml:base="http://localhost:4000/2022-10-25/reading-list">&lt;blockquote class=&quot;blockquote&quot;&gt;
+    &lt;div class=&quot;quote-content&quot;&gt;Reading and writing are the most nourishing form of meditation anyone has so far found.&lt;/div&gt;
+    &lt;footer class=&quot;blockquote-footer&quot;&gt;&lt;cite title=&quot;Source Title&quot;&gt;- Kurt Vonnegut -&lt;/cite&gt;&lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Inspired by &lt;a href=&quot;https://richstone.io/reading-list/&quot;&gt;@richstone&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;legend&quot;&gt;Legend&lt;/h1&gt;
+
+&lt;p&gt;:eyes: - currently reading&lt;/p&gt;
+
+&lt;p&gt;:memo: - TODO&lt;/p&gt;
+
+&lt;p&gt;:arrows_counterclockwise: - TO-REVISIT&lt;/p&gt;
+
+&lt;p&gt;:put_litter_in_its_place: - stop reading for now&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: - Donw, from start to finish (more or less)&lt;/p&gt;
+
+&lt;p&gt;:headphones: - audio format&lt;/p&gt;
+
+&lt;p&gt;:runner: - speed read (might include jumping some sections and generally going through quickly, potentially slowing down in interesting spots)&lt;/p&gt;
+
+&lt;p&gt;:bulb: - idea (not sure yet if I really need to tackle it)&lt;/p&gt;
+
+&lt;p&gt;:thinking: - topic, needs books&lt;/p&gt;
+
+&lt;p&gt;:upside_down_face: - At the moment I read it, I don’t have enough karma to digest all the content or feels confident that I understand it clearly (it is difficult for me to understand the whole idea)&lt;/p&gt;
+
+&lt;p&gt;:books: - a series of posts&lt;/p&gt;
+
+&lt;p&gt;:dizzy_face: on hold because I cannot digest the content, will get back later&lt;/p&gt;
+
+&lt;h1 id=&quot;software-architecture--design&quot;&gt;Software Architecture &amp;amp; Design&lt;/h1&gt;
+
+&lt;p&gt;:heavy_check_mark: &lt;a href=&quot;https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html&quot;&gt;The Clean Architecture by Robert C. Martin (Uncle Bob)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:upside_down_face: &lt;a href=&quot;https://appliedgo.net/di/&quot;&gt;Dependency Injection in a nutshell - appliedgo.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: &lt;a href=&quot;https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/&quot;&gt;Applying The Clean Architecture to Go applications&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: :upside_down_face: &lt;a href=&quot;https://martinfowler.com/articles/lmax.html&quot;&gt;The LMAX Architecture - by Martin Fowler&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: :upside_down_face: &lt;a href=&quot;https://engineering.tiki.vn/arcturus-inventory-processing-system/&quot;&gt;Arcturus - Inventory Processing System of Tiki&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;golang&quot;&gt;Golang&lt;/h1&gt;
+
+&lt;p&gt;:heavy_check_mark: &lt;a href=&quot;https://threedots.tech/post/best-go-framework/&quot;&gt;The Best Go framework: no framework?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: &lt;a href=&quot;https://deepu.tech/concurrency-in-modern-languages-go/&quot;&gt;Concurrency in modern programming languages: Golang&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: &lt;a href=&quot;https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html&quot;&gt;Loose Coupling in Go lang&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: &lt;a href=&quot;https://appliedgo.net/plugins/&quot;&gt;Plugins in Go - appliedgo.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: &lt;a href=&quot;https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fitnext.io%2Fgolang-stop-trusting-your-dependencies-a4c916533b04&quot;&gt;Golang: stop trusting your dependencies!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:eyes: :books: &lt;a href=&quot;https://jesseduffield.com/Gos-Shortcomings-5/&quot;&gt;Go’ing Insane&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: &lt;a href=&quot;https://medium0.com/@saadali.ics/traefik-docker-golang-a-simple-step-by-step-guide-4a61fd0e35d&quot;&gt;Traefik + Docker + Golang — a Simple Step by Step Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: :eyes: &lt;a href=&quot;https://viblo.asia/p/cron-job-tao-bot-slack-nhac-nho-chay-bo-tap-the-duc-voi-golang-5pPLk0GyVRZ?fbclid=IwAR3w0ROudxvHL9_LVJSzKckJDee7JRutflCDMIrUqLMp1KqXSS_iiU788fo&quot;&gt;[Cron Job] - Tạo bot Slack nhắc nhở chạy bộ tập thể dục với Golang&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;perfomance--benchmarks&quot;&gt;Perfomance &amp;amp; Benchmarks&lt;/h1&gt;
+
+&lt;p&gt;:eyes: :books: &lt;a href=&quot;https://viblo.asia/s/toi-uu-database-DVK2jDrnKLj&quot;&gt;Tối ưu database&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: :upside_down_face: &lt;a href=&quot;https://batnamv.medium.com/t%C3%ACm-hi%E1%BB%83u-v%E1%BB%81-kh%C3%A1i-ni%E1%BB%87m-mechanical-sympathy-v%C3%A0-b%E1%BB%99-th%C6%B0-vi%E1%BB%87n-lmax-disruptor-4d553dc7fa55&quot;&gt;Tìm hiểu về khái niệm Mechanical Sympathy trong phần mềm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;lives--works&quot;&gt;Lives &amp;amp; Works&lt;/h1&gt;
+
+&lt;p&gt;:heavy_check_mark: &lt;a href=&quot;https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/&quot;&gt;Things they didn’t teach you about Software Engineering&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: &lt;a href=&quot;https://vadimkravcenko.com/shorts/contracts-you-should-never-sign/&quot;&gt;Contracts you should never sign&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: &lt;a href=&quot;https://vadimkravcenko.com/shorts/interviews-as-a-service/&quot;&gt;Interviews-as-a-Service: The Bad and The Ugly&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:memo: :arrows_counterclockwise: &lt;a href=&quot;https://vadimkravcenko.com/shorts/the-silent-majority/&quot;&gt;The silent majority&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: &lt;a href=&quot;https://threedots.tech/post/software-dark-ages/&quot;&gt;Software Dark Ages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: &lt;a href=&quot;https://viblo.asia/p/len-thuyen-gwd43B83VX9&quot;&gt;Lên thuyền&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: :arrows_counterclockwise: &lt;a href=&quot;https://thepresentwriter.com/7-buoc-tien-toi-tu-do-tai-chinh-dave-ramsey/&quot;&gt;7 BƯỚC TIẾN TỚI TỰ DO TÀI CHÍNH – DAVE RAMSEY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: Tâm Lý Học Về Rối Loạn Nhân Cách Tránh Né - Okada Takashi&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: Reasons To Stay Alive - Matt Haig&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: Là an ủi - Matt Haig&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: Tìm mình trong thế giới hậu tuổi thơ - Đặng Hoàng Giang&lt;/p&gt;
+
+&lt;p&gt;:eyes: Bàn về ham muốn - William B. Irvine&lt;/p&gt;
+
+&lt;p&gt;:eyes: :upside_down_face: :dizzy_face: Những lời giáo huấn của Epictetus - Epictetus&lt;/p&gt;
+
+&lt;h1 id=&quot;blogs&quot;&gt;Blogs&lt;/h1&gt;
+
+&lt;p&gt;Here comes list of blogs that I want to follow, interesting sources of value posts.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cuonglm.xyz/post/&quot;&gt;https://cuonglm.xyz/post/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://holdenrehg.com/blog&quot;&gt;https://holdenrehg.com/blog&lt;/a&gt;&lt;/p&gt;</content><author><name>Fuku</name></author><category term="Reading" /><summary type="html">Reading and writing are the most nourishing form of meditation anyone has so far found. - Kurt Vonnegut -</summary></entry><entry><title type="html">Reading Notes</title><link href="http://localhost:4000/2022-10-20/reading-notes" rel="alternate" type="text/html" title="Reading Notes" /><published>2022-10-20T00:00:00+07:00</published><updated>2022-10-20T00:00:00+07:00</updated><id>http://localhost:4000/2022-10-20/reading-notes</id><content type="html" xml:base="http://localhost:4000/2022-10-20/reading-notes">&lt;blockquote&gt;
   &lt;p&gt;A great challenge of life: Knowing enough to think you are right, but not knowing enough to know you are wrong.&lt;/p&gt;
 
   &lt;p&gt;— Neil&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;tìm-mình-trong-thế-giới-hậu-tuổi-thơ---đặng-hoàng-giang&quot;&gt;Tìm mình trong thế giới hậu tuổi thơ - Đặng Hoàng Giang&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Tôi muốn mọi người biết rằng có nhiều đứa trẻ vẫn đang chống chọi từng ngày để lớn lên thành người tử tế&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mình rất dễ khóc và đôi khi mình ghét việc đó. Nhưng có lẽ mình vẫn còn may mắn, vì mình còn có thể khóc. Có những người họ thậm chí còn không thể khóc hoặc rất khó để khóc.&lt;/p&gt;
+
+&lt;p&gt;Mình đọc hết cuốn chỉ trong hai ngày. Đây là cuốn sách mình khóc nhiều nhất từ trước đến nay. Lúc đang đọc, mình chợt nghĩ nếu như bố mẹ mình cũng đọc cuốn này, mình đã hy vọng họ có thể hiểu được điều gì đó qua những câu chuyện này. Sau đó thì mình nhanh chóng gạt bỏ suy nghĩ đõ vì mình biết sẽ chẳng có tác dụng gì đâu vì mình đã từng thử chia sẻ nội dung một cuốn sách mình từng đọc cho bà ấy và nhận ra cách bà ấy cảm nhận không gióng với mình. Bố thì càng không.&lt;/p&gt;
+
+&lt;p&gt;Mình vẫn nhớ cái ngày mình học câp hai đó, bố đi nghe diễn thuyết gì đó về cách nuôi dạy con cái, xong bố mua quyển “Cách dạy con của người Do Thái” nôm ta tên như vậy, rồi đưa cho mình và kêu mình đọc (insert mặt cười hỏi chấm). Mình đã hỏi ngược lại bố, bố mới là người phải đọc chứ, rồi ông ấy chỉ cười trừ cho qua. Từ đó mình không ôm hy vọng gì vào ông ấy nữa.&lt;/p&gt;
+
+&lt;p&gt;Đọc chương nào mình cũng thấy những đứa trẻ trong đó đều phảng phất giống mình ở một vài điểm. Nhưng mình phải công nhận một điều, chúng nó phải khó khăn và vật lộn hơn mình rất rất nhiều. Gia đình mình cũng bất hòa nhưng bố mẹ đã quyết định không ly hôn (mặc dù mình đã nhìn thấy tờ đơn ly dị họ viết và có chữ ký hai bên). Nhà cũng có bạo lực gia đình nhưng nó đã dừng được một thời gian rồi, có lẽ bệnh tật nhiều khiến họ mệt quá, không nổi khùng nổi điên với nhau được nữa. Bọn họ một kẻ lạnh nhạt, một kẻ hằn học, nhưng lại luôn luôn nghĩ cho mình. Vâng họ là cục đá đè nặng trong lòng mình.&lt;/p&gt;
+
+&lt;p&gt;Có lẽ vì cái gì mình cũng chỉ có một ít, chứ không đến mức quá cực đoan như những đứa trong sách, nên con đường mình đi cũng khác chúng nó, và đó có lẽ là một may mắn. Mình không sa đà vào chơi bời lêu lổng, không dùng chất kích thích, không mắc bệnh tâm thần và thậm chí đến giờ mình cũng chưa trong mối quan hệ yêu đương nào và cũng chưa quan hệ tình dục với ai. Mà thề, đọc cuốn này sốc vch, mình tự hỏi chúng nó làm chuyện đó sớm vậy sao, thực sự cảm thấy nhân sinh quan cua mình có vấn đề :)))&lt;/p&gt;
+
+&lt;p&gt;Cảm thấy mình may mắn vì mình không sa đọa. Một phần có lẽ là do mình có phương pháp để giải tỏa sự ức chế cảm xúc khi phải sống trong thế giới bế tắc. Mình thích học, hồi đó cảm giác giải được một bài toán khó là niềm vui khôn tả. Mình không giao tiếp chơi bời với chị em họ hàng và bạn bè xung quanh nên mình gần như không bị ảnh hưởng bởi những định kiến xã hội, sự vô duyên của hàng xóm họ hàng cô dì chú bác không làm ảnh hưởng lên mình (vì họ có cơ hội tiếp xúc mình đâu chứ). Và chính việc thích học + thành tích học của mình không đến nỗi tệ, thực ra phải gọi là nổi bật ấy chứ, nó vừa hay thỏa mãn sự sĩ diện của bố mẹ mình, nên bọn họ không căng thẳng với mình nữa, mặc dù mình biết đâu đó trong tâm trí mình bọn họ vãn luôn là một thứ áp lực.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Chúng ta dễ vướng vào cảm giác ganh tỵ vì nguyên do đơn giản là chúng ta quen thuộc với cuộc đời của mình hơn cuộc đời của người khác.&lt;/p&gt;
+
+  &lt;p&gt;– BÀN VỀ HAM MUỐN - William B. Irvine&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;chúng ta phần lớn không biết đến những nỗ lực, nhu cầu và hành động tử tế của những người xung quanh. Do đó, khi điều tốt đẹp đến với họ, ta không hề nhận ra họ xứng đáng với những điều đó, hay ở mức độ nào đó, họ xứng đáng với chúng nhiều như chúng ta.&lt;/p&gt;
+
+  &lt;p&gt;– BÀN VỀ HAM MUỐN - William B. Irvine&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Thông minh là năng lực thích nghi với thay đổi.&lt;/p&gt;
+
+  &lt;p&gt;– Stephen Hawking&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Thay vì chỉ chăm chăm theo đuổi 1 góc nhìn, chúng ta nên phát triển nhiều góc nhìn khác nhau để suy nghĩ về thế giới. Càng có nhiều góc nhìn, bạn càng có thêm công cụ để tư duy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tình yêu là từ dùng để chỉ những ham muốn tình dục của người trẻ, thói quen của người trung niên và sự phụ thuộc lẫn nhau của người già&lt;/p&gt;
+
+  &lt;p&gt;– John Ciardi&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Những người đã chuẩn bị cho khổ đau là những người kiên cường nhất trước khổ đau. Những người trông chờ sự khảo nghiệm là những người sẵn sàng nhất để đối mặt với khảo nghiệm. Kiên định đâu phải là lúc nào cũng cảm thấy phấn chấn, mà nghĩa là đôi khi bạn bằng lòng với cảm giác không mấy tốt đẹp.&lt;/p&gt;
+
+  &lt;p&gt;– markmanson.net&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Niềm vui của việc cho một cách tự nguyện và không giới hạn chuyển thành nỗi lo sợ về việc có thể không được nhận. Người ấy – chồng bạn, người yêu bạn, con bạn – tự nhiên trở thành quá quan trọng với bạn. Bạn lo lắng về những gì có thể xảy ra. Những gì họ sắp làm. Và ở thời điểm đó, tình yêu dừng lại.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+
 &lt;/blockquote&gt;</content><author><name>Fuku</name></author><category term="Reading" /><summary type="html">A great challenge of life: Knowing enough to think you are right, but not knowing enough to know you are wrong. — Neil</summary></entry><entry><title type="html">Sticky Posts</title><link href="http://localhost:4000/2021-05-03/sticky-posts" rel="alternate" type="text/html" title="Sticky Posts" /><published>2021-05-03T00:00:00+07:00</published><updated>2021-05-03T00:00:00+07:00</updated><id>http://localhost:4000/2021-05-03/sticky-posts</id><content type="html" xml:base="http://localhost:4000/2021-05-03/sticky-posts">&lt;p&gt;Sticky, or pinned, posts are featured on the top of every page. Tale provides some flexibility when it comes to this feature.&lt;!--more--&gt; There is no limit on the number of sticky posts you can have. Although do note that each page will show all your sticky posts + the paginated posts. So if you have 4 sticky posts and 5 posts per page, each page can display up to 9 posts.&lt;/p&gt;
 
 &lt;h2 id=&quot;making-a-post-sticky&quot;&gt;Making a post “sticky”&lt;/h2&gt;
@@ -33,30 +311,51 @@
 
 &lt;h2 id=&quot;example&quot;&gt;Example&lt;/h2&gt;
 
-&lt;p&gt;See &lt;a href=&quot;https://github.com/chesterhow/tale/blob/master/_posts/2021-04-30-managing-excerpt.md&quot;&gt;this post&lt;/a&gt; or the &lt;a href=&quot;https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md&quot;&gt;“Introducing Tale” post&lt;/a&gt;.&lt;/p&gt;</content><author><name>Chester</name></author><category term="Tutorial" /><summary type="html">You can customise the excerpt (the text displayed below each post on the homepage) using the excerpt-separator.</summary></entry><entry><title type="html">Introducing Tale</title><link href="http://localhost:4000/2017-03-29/introducing-tale" rel="alternate" type="text/html" title="Introducing Tale" /><published>2017-03-29T00:00:00+07:00</published><updated>2017-03-29T00:00:00+07:00</updated><id>http://localhost:4000/2017-03-29/introducing-tale</id><content type="html" xml:base="http://localhost:4000/2017-03-29/introducing-tale">&lt;p&gt;Tale is a minimal &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; theme curated for storytellers. It is designed and developed by &lt;a href=&quot;https://github.com/chesterhow/&quot;&gt;myself&lt;/a&gt; for a friend who writes short stories.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&quot;https://github.com/chesterhow/tale/blob/master/_posts/2021-04-30-managing-excerpt.md&quot;&gt;this post&lt;/a&gt; or the &lt;a href=&quot;https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md&quot;&gt;“Introducing Tale” post&lt;/a&gt;.&lt;/p&gt;</content><author><name>Chester</name></author><category term="Tutorial" /><summary type="html">You can customise the excerpt (the text displayed below each post on the homepage) using the excerpt-separator.</summary></entry><entry><title type="html">Random thoughts (collected from someone somewhere)</title><link href="http://localhost:4000/2020-10-24/random-thoughts" rel="alternate" type="text/html" title="Random thoughts (collected from someone somewhere)" /><published>2020-10-24T00:00:00+07:00</published><updated>2020-10-24T00:00:00+07:00</updated><id>http://localhost:4000/2020-10-24/random-thoughts</id><content type="html" xml:base="http://localhost:4000/2020-10-24/random-thoughts">&lt;h1 id=&quot;design-patterns-in-golang&quot;&gt;Design patterns in Golang&lt;/h1&gt;
 
-&lt;h2 id=&quot;tale-features&quot;&gt;Tale features&lt;/h2&gt;
+&lt;blockquote class=&quot;blockquote&quot;&gt;
+    &lt;div class=&quot;quote-content&quot;&gt;I don’t concern myself with design patterns in Golang, mainly because most of them in my opinion complicate things unnecessarily.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;
+    &lt;div class=&quot;quote-content&quot;&gt;I know that obsessing about design patterns can make the code harder to read, and&lt;!--more--&gt; that it is not an exact science. But we should embrace and welcome them, not fear them.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;golang-and-security&quot;&gt;Golang and security&lt;/h1&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;
+    &lt;div class=&quot;quote-content&quot;&gt;Go ecosystem is nice for networking stuff, so probably we gonna have more and more &quot;hacking&quot; stuff written in go.&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;frameworks&quot;&gt;Frameworks&lt;/h1&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;
+    &lt;div class=&quot;quote-content&quot;&gt;What I found works best for me is to read through one or two frameworks to learn their implementation architecture and then build a very minimalistic version that works best for me!&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;dành-cả-thanh-xuân-cho-những-điều-vụn-vặt-nơi-công-sở&quot;&gt;DÀNH CẢ THANH XUÂN CHO NHỮNG ĐIỀU VỤN VẶT NƠI CÔNG SỞ&lt;/h1&gt;
+
+&lt;p&gt;This topic make me think that I should do something to prevent this&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Compatible with GitHub Pages&lt;/li&gt;
-  &lt;li&gt;Responsive design (looks just as good on mobile)&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, with the help of Pygments&lt;/li&gt;
-  &lt;li&gt;Markdown and HTML text formatting&lt;/li&gt;
-  &lt;li&gt;Pagination of posts&lt;/li&gt;
-  &lt;li&gt;Sticky posts&lt;/li&gt;
-  &lt;li&gt;Tags&lt;/li&gt;
-  &lt;li&gt;Excerpt management&lt;/li&gt;
-  &lt;li&gt;Disqus comments&lt;/li&gt;
+  &lt;li&gt;check tin nhắn telegram → ok t sẽ disable noti trên telegram&lt;/li&gt;
+  &lt;li&gt;hỏi lại người hỏi mình vì méo hiểu câu hỏi của người ta nghĩa là gì dm =__= → cái này thì chịu, à có cách là out khỏi dự án, tìm kiếm đồng đội tốt hơn, m nghỉ m đủ tốt để có được đồng đội tốt hơn chưa ???&lt;/li&gt;
+  &lt;li&gt;chỉnh template báo cáo, thêm field, sửa view dcm → nghỉ việc đi&lt;/li&gt;
+  &lt;li&gt;chạy ngược từ tầng 1 lên tầng 5 vì quên đồ&lt;/li&gt;
+  &lt;li&gt;đăng nhập vào hrm để xem giờ checkin → xem giờ trên máy quét ngay lúc checkin xong&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Head over to the &lt;a href=&quot;/2017-03-16/example-content&quot;&gt;Example Content&lt;/a&gt; post for a showcase of Tale’s text formatting features.&lt;/p&gt;
+&lt;h1 id=&quot;mechanical-sympathy&quot;&gt;Mechanical Sympathy&lt;/h1&gt;
 
-&lt;h2 id=&quot;browser-support&quot;&gt;Browser Support&lt;/h2&gt;
-&lt;p&gt;Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼&lt;/p&gt;
+&lt;p&gt;Ngày trước, trong lúc mood mình đang khá tệ thì sếp Andrew có lôi mình đi ăn. Lúc đó sếp có nói một ý, đại loại là sứ mệnh của công ty, cụ thể ơn là công việc mình đang làm là mang lại value cho doanh nghiệp. Nếu như mang lại giá trị cho khách hàng/doanh nghiệp không phải là mục tiêu của mình, vậy thì có lẽ mình sẽ không đi được lâu theo con đường này.&lt;/p&gt;
 
-&lt;h2 id=&quot;download-or-contribute&quot;&gt;Download or Contribute&lt;/h2&gt;
-&lt;p&gt;Tale is publicly hosted on GitHub, so go ahead and download or fork it at the &lt;a href=&quot;https://github.com/chesterhow/tale&quot;&gt;GitHub repository&lt;/a&gt;. If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.&lt;/p&gt;
+&lt;p&gt;Sau bữa đó cứ băn khoăn tự hỏi mãi, rốt cuộc mình có đang làm việc vì mang lại lợi ích, giá trị cho khách hàng, cho doanh nghiệp của mình không. Nói có thì không đúng, nhưng nếu như là không, vậy thì mục tiêu mình hướng đến là gì? Và nếu như nó khác với định hướng chiến lược của công ty thì mình phải chuẩn bị cho một ngày không xa mình rời khỏi tổ chức này, vậy mình đã chuẩn bị được gì cho cái viễn cảnh đó chưa.&lt;/p&gt;
 
-&lt;p&gt;Thanks for checking out Tale!&lt;/p&gt;</content><author><name>Chester</name></author><category term="Tale" /><summary type="html">Tale is a minimal Jekyll theme curated for storytellers. It is designed and developed by myself for a friend who writes short stories.</summary></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/2017-03-16/example-content" rel="alternate" type="text/html" title="Example Content" /><published>2017-03-16T00:00:00+07:00</published><updated>2017-03-16T00:00:00+07:00</updated><id>http://localhost:4000/2017-03-16/example-content</id><content type="html" xml:base="http://localhost:4000/2017-03-16/example-content">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.&lt;!--more--&gt; Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.&lt;/p&gt;
+&lt;p&gt;Làm khách hàng hài lòng chắc chắn không phải là thứ mình hướng đến tuy nhiên công việc hiện tại mình lại phải làm việc với khách hàng rất nhiều. Đương nhiên làm việc thì giao tiếp là cần thiết, nhưng mình cần một môi trường mà sự giao tiếp dùng để hợp tác, giúp đỡ nhau tìm ra giải pháp, người giỏi giúp đỡ người mới, nếu ai cũng không biết làm thì cùng nhau tìm kiếm giải pháp bên ngoài, gather thêm những người có năng lực để cùng nhau khắc phục vấn đề hơn là những câu chuyện xoi xét, blame đồng đội, nhờ vả, đùn đẩy công việc và dùng những cách nói chuyện như ??? IN HOA TOÀN BỘ MESSAGE inbox kín để complain. Nó không giải quyết được việc gì ngoài việc lan tỏa sự toxic ra xung quanh. Mình rất mệt mỏi với những sự toxic kiểu như vậy.&lt;/p&gt;
+
+&lt;p&gt;Thôi dừng =))) càm ràm đủ rồi giờ thì vào vấn đề chính, cái idea này khá là hay. Và mình thấy nó là một solution phù hợp với mình. Mình quá mệt mỏi khi phải giao tiếp với con người, luôn luôn sợ làm người khác tự ái, luôn sợ làm phiền người khác, luôn sợ sự đen tối và toxic của mình làm ảnh hưởng đến năng lượng của người khác, luôn mệt mỏi vì cảm thấy hối hận vì lỡ vụng miệng nói gì đó không hợp tình huống nhưng lại chẳng dám xin lỗi vì cứ băn khoăn không biết người ta có để ý hay không. Vậy thì để đỡ mệt mỏi thì thôi, đừng cứ để đầu óc xoay lòng vòng quanh những người khác, kệ cmn khách hàng đi, mày viết code cho ai? Đương nhiên là cho máy tính chạy, vậy thì hãy nghĩ cho máy, cho chiếc server đang chạy những dòng code của mày, viết sao cho nó &lt;em&gt;sống&lt;/em&gt; một cách có ích, sao cho nó làm việc một cách logic đúng như sự logic vốn có của nó, 0 là 0 mà 1 là 1. Viết sao cho nó đừng bị quá tải, đừng làm nó mệt, dùng bất kỳ framework nào cũng hay tôn trọng nó, hiểu nó trước khi muốn nó biến thành hình hài nào mới, trước khi định vặt tay bẻ chân tính năng của nó. Lập trình nhiều khi có những logic rất phức tạp nhưng chắc chắn là nó sẽ không khó chịu như việc mày phải deal với ty tỷ kiểu người khác nhau trên thế giới này.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mechanical Sympathy&lt;/strong&gt; - Khi hệ thống chậm bạn nghĩ đến điều gì? Hãy nghĩ đến làm sao cho code của mình thân thiện, đồng điệu và họat động tốt hơn với phần cứng trước khi nghĩ đến scaling. (lập trình phần mềm đồng điệu với phần cứng - hardware and software working together in harmony)&lt;/p&gt;</content><author><name>Fuku</name></author><category term="Random" /><summary type="html">Design patterns in Golang I don’t concern myself with design patterns in Golang, mainly because most of them in my opinion complicate things unnecessarily. I know that obsessing about design patterns can make the code harder to read, and</summary></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/2017-03-16/example-content" rel="alternate" type="text/html" title="Example Content" /><published>2017-03-16T00:00:00+07:00</published><updated>2017-03-16T00:00:00+07:00</updated><id>http://localhost:4000/2017-03-16/example-content</id><content type="html" xml:base="http://localhost:4000/2017-03-16/example-content">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.&lt;!--more--&gt; Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.&lt;/p&gt;
 
 &lt;h1 id=&quot;headers&quot;&gt;Headers&lt;/h1&gt;
 
@@ -183,26 +482,8 @@ and &lt;span class=&quot;sb&quot;&gt;`&amp;lt;br&amp;gt;`&lt;/span&gt; for line 
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;The end&lt;/em&gt;&lt;/p&gt;</content><author><name>Chester</name></author><category term="Example" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2017-03-10/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-10T00:00:00+07:00</published><updated>2017-03-10T00:00:00+07:00</updated><id>http://localhost:4000/2017-03-10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2017-03-10/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets: like these&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Jekyll</name></author><category term="Jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">The Case of the Missing Post</title><link href="http://localhost:4000/2017-03-07/the-case-of-the-missing-post" rel="alternate" type="text/html" title="The Case of the Missing Post" /><published>2017-03-07T00:00:00+07:00</published><updated>2017-03-07T00:00:00+07:00</updated><id>http://localhost:4000/2017-03-07/the-case-of-the-missing-post</id><content type="html" xml:base="http://localhost:4000/2017-03-07/the-case-of-the-missing-post">&lt;p&gt;Kitty power! and sometimes switches in french and say “miaou” just because well why not man running from cops stops to pet cats, goes to jail, yet licks your face or drink water out of the faucet so jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water yet drink water out of the faucet. Pelt around the house and up and down stairs chasing phantoms.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The end&lt;/em&gt;&lt;/p&gt;</content><author><name>Chester</name></author><category term="Example" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.</summary></entry><entry><title type="html">The Case of the Missing Post</title><link href="http://localhost:4000/2017-03-07/the-case-of-the-missing-post" rel="alternate" type="text/html" title="The Case of the Missing Post" /><published>2017-03-07T00:00:00+07:00</published><updated>2017-03-07T00:00:00+07:00</updated><id>http://localhost:4000/2017-03-07/the-case-of-the-missing-post</id><content type="html" xml:base="http://localhost:4000/2017-03-07/the-case-of-the-missing-post">&lt;p&gt;Kitty power! and sometimes switches in french and say “miaou” just because well why not man running from cops stops to pet cats, goes to jail, yet licks your face or drink water out of the faucet so jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water yet drink water out of the faucet. Pelt around the house and up and down stairs chasing phantoms.&lt;/p&gt;
 
 &lt;p&gt;Sit in window and stare ooo, a bird! yum. Sit and stare. Sweet beast loves cheeseburgers. Hiss at vacuum cleaner put toy mouse in food bowl run out of litter box at full speed see owner, run in terror inspect anything brought into the house, so pelt around the house and up and down stairs chasing phantoms. Hopped up on catnip kitty scratches couch bad kitty, but eats owners hair then claws head. Lie on your belly and purr when you are asleep kitty power! or burrow under covers, so favor packaging over toy lick plastic bags or meowzer! yet unwrap toilet paper.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.catipsum.com/&quot;&gt;Cat Ipsum&lt;/a&gt;&lt;/p&gt;</content><author><name>Chester</name></author><category term="Tale" /><summary type="html">Kitty power! and sometimes switches in french and say “miaou” just because well why not man running from cops stops to pet cats, goes to jail, yet licks your face or drink water out of the faucet so jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water yet drink water out of the faucet. Pelt around the house and up and down stairs chasing phantoms.</summary></entry><entry><title type="html">The Mystery of the Filler Post</title><link href="http://localhost:4000/2017-03-06/the-mystery-of-the-filler-post" rel="alternate" type="text/html" title="The Mystery of the Filler Post" /><published>2017-03-06T00:00:00+07:00</published><updated>2017-03-06T00:00:00+07:00</updated><id>http://localhost:4000/2017-03-06/the-mystery-of-the-filler-post</id><content type="html" xml:base="http://localhost:4000/2017-03-06/the-mystery-of-the-filler-post">&lt;p&gt;Hornswaggle measured fer yer chains chase run a shot across the bow Chain Shot flogging Pirate Round galleon rope’s end aft. Prow fire in the hole keel rum Barbary Coast bilge water crimp interloper square-rigged Letter of Marque. Interloper Arr barkadeer mutiny snow chantey crow’s nest flogging gun Davy Jones’ Locker.&lt;/p&gt;
-
-&lt;p&gt;Bilge jolly boat barque topsail interloper chandler spanker scuttle Arr sloop. Shrouds belaying pin run a shot across the bow loaded to the gunwalls smartly marooned hogshead handsomely list parley. Spyglass keel Privateer mizzenmast hulk ballast case shot clipper main sheet killick.&lt;/p&gt;
-
-&lt;p&gt;Careen hempen halter Letter of Marque pillage swing the lead take a caulk Sail ho jury mast walk the plank ho. Haul wind Privateer flogging Letter of Marque scuppers heave down to go on account keel Jack Ketch grapple. Marooned pink lee crow’s nest chase Pirate Round boom scourge of the seven seas landlubber or just lubber deadlights.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://pirateipsum.me/&quot;&gt;Pirate Ipsum&lt;/a&gt;&lt;/p&gt;</content><author><name>Chester</name></author><category term="Tale" /><summary type="html">Hornswaggle measured fer yer chains chase run a shot across the bow Chain Shot flogging Pirate Round galleon rope’s end aft. Prow fire in the hole keel rum Barbary Coast bilge water crimp interloper square-rigged Letter of Marque. Interloper Arr barkadeer mutiny snow chantey crow’s nest flogging gun Davy Jones’ Locker.</summary></entry><entry><title type="html">Pagination Post</title><link href="http://localhost:4000/2017-03-05/pagination-post" rel="alternate" type="text/html" title="Pagination Post" /><published>2017-03-05T00:00:00+07:00</published><updated>2017-03-05T00:00:00+07:00</updated><id>http://localhost:4000/2017-03-05/pagination-post</id><content type="html" xml:base="http://localhost:4000/2017-03-05/pagination-post">&lt;p&gt;Here we see &lt;strong&gt;Tale’s&lt;/strong&gt; pagination feature in action. It is set to 5 posts per page by default. Feel free to change this number in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file!&lt;/p&gt;</content><author><name>Chester</name></author><category term="Tale" /><summary type="html">Here we see Tale’s pagination feature in action. It is set to 5 posts per page by default. Feel free to change this number in the _config.yml file!</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;http://www.catipsum.com/&quot;&gt;Cat Ipsum&lt;/a&gt;&lt;/p&gt;</content><author><name>Chester</name></author><category term="Tale" /><summary type="html">Kitty power! and sometimes switches in french and say “miaou” just because well why not man running from cops stops to pet cats, goes to jail, yet licks your face or drink water out of the faucet so jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water yet drink water out of the faucet. Pelt around the house and up and down stairs chasing phantoms.</summary></entry></feed>

@@ -2,7 +2,6 @@
 layout: post
 title:  "Random thoughts (collected from someone somewhere)"
 author: "Fuku"
-comments: true
 tags: Random
 excerpt_separator: <!--more-->
 sticky: true
@@ -11,17 +10,26 @@ hidden: true
 
 # Design patterns in Golang
 
-> I don’t concern myself with design patterns in Golang, mainly because most of them in my opinion complicate things unnecessarily.
+<blockquote class="blockquote">
+    <div class="quote-content">I don’t concern myself with design patterns in Golang, mainly because most of them in my opinion complicate things unnecessarily.</div>
+</blockquote>
 
-> I know that obsessing about design patterns can make the code harder to read, and that it is not an exact science. But we should embrace and welcome them, not fear them.
+<blockquote class="blockquote">
+    <div class="quote-content">I know that obsessing about design patterns can make the code harder to read, and<!--more--> that it is not an exact science. But we should embrace and welcome them, not fear them.</div>
+</blockquote>
 
 # Golang and security
 
-> Go ecosystem is nice for networking stuff, so probably we gonna have more and more "hacking" stuff written in go
+<blockquote class="blockquote">
+    <div class="quote-content">Go ecosystem is nice for networking stuff, so probably we gonna have more and more "hacking" stuff written in go.</div>
+</blockquote>
 
 # Frameworks
 
-> What I found works best for me is to read through one or two frameworks to learn their implementation architecture and then build a very minimalistic version that works best for me!
+<blockquote class="blockquote">
+    <div class="quote-content">What I found works best for me is to read through one or two frameworks to learn their implementation architecture and then build a very minimalistic version that works best for me!</div>
+</blockquote>
+
 
 # DÀNH CẢ THANH XUÂN CHO NHỮNG ĐIỀU VỤN VẶT NƠI CÔNG SỞ
 
