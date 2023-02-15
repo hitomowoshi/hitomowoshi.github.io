@@ -71,9 +71,13 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 # Perfomance & Benchmarks
 
-:eyes: :books: [Tối ưu database](https://viblo.asia/s/toi-uu-database-DVK2jDrnKLj)
+:eyes: :books: [Tối ưu database](https://viblo.asia/s/toi-uu-database-DVK2jDrnKLj) (8/?)
 
 :heavy_check_mark: :upside_down_face: [Tìm hiểu về khái niệm Mechanical Sympathy trong phần mềm](https://batnamv.medium.com/t%C3%ACm-hi%E1%BB%83u-v%E1%BB%81-kh%C3%A1i-ni%E1%BB%87m-mechanical-sympathy-v%C3%A0-b%E1%BB%99-th%C6%B0-vi%E1%BB%87n-lmax-disruptor-4d553dc7fa55)
+
+:heavy_check_mark: [Anatomy of a PostgreSQL Query Plan](https://arctype.com/blog/postgresql-query-plan-anatomy/)
+
+:heavy_check_mark: [PostgreSQL Concurrency with MVCC](https://devcenter.heroku.com/articles/postgresql-concurrency)
 
 # Lives & Works
 
