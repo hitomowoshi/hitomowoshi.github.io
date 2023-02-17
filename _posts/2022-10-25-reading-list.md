@@ -69,6 +69,10 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :memo: :eyes: [[Cron Job] - Tạo bot Slack nhắc nhở chạy bộ tập thể dục với Golang](https://viblo.asia/p/cron-job-tao-bot-slack-nhac-nho-chay-bo-tap-the-duc-voi-golang-5pPLk0GyVRZ?fbclid=IwAR3w0ROudxvHL9_LVJSzKckJDee7JRutflCDMIrUqLMp1KqXSS_iiU788fo)
 
+# Python
+
+:memo: [CPython Internals - Your Guide to the Python 3 Interpreter](https://calibre.leishi.io/read/59/epub)
+
 # Perfomance & Benchmarks
 
 :eyes: :books: [Tối ưu database](https://viblo.asia/s/toi-uu-database-DVK2jDrnKLj) (8/?)
@@ -107,6 +111,9 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :eyes: :upside_down_face: :dizzy_face: Những lời giáo huấn của Epictetus - Epictetus
 
+:meme: Cracking the Coding Interview
+
+:heavy_check_mark: :arrows_counterclockwise: [My Google Technical Interview Cheat Sheet](https://dev.to/elliot/my-google-technical-interview-cheat-sheet-1lbd)
 
 # Blogs
 
