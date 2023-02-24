@@ -51,6 +51,8 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :heavy_check_mark: :upside_down_face: [Arcturus - Inventory Processing System of Tiki](https://engineering.tiki.vn/arcturus-inventory-processing-system/)
 
+:memo: :books: [From 0 to Millions: A Guide to Scaling Your App](https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling)
+
 # Golang
 
 :heavy_check_mark: [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
@@ -68,6 +70,8 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 :memo: [Traefik + Docker + Golang — a Simple Step by Step Guide](https://medium0.com/@saadali.ics/traefik-docker-golang-a-simple-step-by-step-guide-4a61fd0e35d)
 
 :memo: :eyes: [[Cron Job] - Tạo bot Slack nhắc nhở chạy bộ tập thể dục với Golang](https://viblo.asia/p/cron-job-tao-bot-slack-nhac-nho-chay-bo-tap-the-duc-voi-golang-5pPLk0GyVRZ?fbclid=IwAR3w0ROudxvHL9_LVJSzKckJDee7JRutflCDMIrUqLMp1KqXSS_iiU788fo)
+
+:memo: :books: [The Go Blog](https://go.dev/blog/)
 
 # Python
 
@@ -122,3 +126,5 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 [https://cuonglm.xyz/post/](https://cuonglm.xyz/post/)
 
 [https://holdenrehg.com/blog](https://holdenrehg.com/blog)
+
+[**paid**] [ByteByteGo](https://blog.bytebytego.com/)
