@@ -87,6 +87,8 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :heavy_check_mark: [PostgreSQL Concurrency with MVCC](https://devcenter.heroku.com/articles/postgresql-concurrency)
 
+:meme: :books: [Đĩ Nghiện Code Thuật Vấn đáp](https://viblo.asia/s/di-nghien-code-thuat-van-dap-JzKmg8nPl9N)
+
 # Lives & Works
 
 :heavy_check_mark: [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
@@ -119,6 +121,8 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :heavy_check_mark: :arrows_counterclockwise: [My Google Technical Interview Cheat Sheet](https://dev.to/elliot/my-google-technical-interview-cheat-sheet-1lbd)
 
+:heavy_check_mark: [Defy distractions at work](https://kairsten-fay.medium.com/defy-distractions-at-work-5debcf571b9e)
+
 # Blogs
 
 Here comes list of blogs that I want to follow, interesting sources of value posts.
@@ -128,3 +132,5 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 [https://holdenrehg.com/blog](https://holdenrehg.com/blog)
 
 [**paid**] [ByteByteGo](https://blog.bytebytego.com/)
+
+[kairsten-fay.medium.com](https://kairsten-fay.medium.com/) blog của chị Kairsten Fay

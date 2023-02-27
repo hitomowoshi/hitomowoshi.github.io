@@ -129,11 +129,26 @@ Oracle giải thích về các kiểu duyệt cơ bản khi tìm kiếm t
 
 ## Where trên khóa chính
 
+```sql
+SELECT first_name, last_name
+  FROM employees
+ WHERE employee_id = 123
+```
+
+_The PostgreSQL operation Index Scan combines the INDEX [UNIQUE/RANGE] SCAN and TABLE ACCES BY INDEX ROWID operations from the Oracle Database. It is not visible from the execution plan if the index access might potentially return more than one row._
+
 Một lệnh truy vấn chậm thường có nguyên nhân đầu tiên là một lệnh WHERE viết cùi
 
 dù dữ liệu to nhỏ mặc lòng khi cần tìm kiếm theo Primary Key thì cứ vô tư đi, không thể nào chậm được.
 
-## Index kết hợp
+## Index kết hợp (Concatenated Indexes / Multi-column Indexes)
+
+```sql
+SELECT first_name, last_name
+  FROM employees
+ WHERE employee_id   = 123
+   AND subsidiary_id = 30
+```
 
 index không hỗ trợ tìm kiếm theo trường thứ hai, giống như việc tìm danh bạ theo HỌ vậy (cái này mình nói quyển danh bạ ngày xưa chứ giờ tra IPhone thì cái gì nó chả ra, hoặc ví dụ khác là các bạn tìm kiếm từ điển bằng chữ cái thứ hai vậy)
 
