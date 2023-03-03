@@ -16,3 +16,5 @@ tags: Random
 [Codesignal](https://app.codesignal.com/): practice coding with recommended time, target time/space complexity
 
 [Leetcode](leetcode.com): practice coding with better discussion from community
+
+[Golangprojects](https://www.golangprojects.com/): job board for Golang jobs

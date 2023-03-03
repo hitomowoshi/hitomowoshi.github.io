@@ -134,3 +134,7 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 [**paid**] [ByteByteGo](https://blog.bytebytego.com/)
 
 [kairsten-fay.medium.com](https://kairsten-fay.medium.com/) blog của chị Kairsten Fay
+
+
+
+_Disclaimer: I read a lot, also forget a lot_
