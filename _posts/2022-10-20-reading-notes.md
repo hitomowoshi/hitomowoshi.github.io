@@ -69,4 +69,10 @@ Bình thường em thấy các project golang hay làm theo kiểu hàm tạo m�
 **A**: Giải thích ngắn gọn là cách của e là "hướng thủ tục" (procedure) còn cái e hay thấy là "encapsulation" (bao đóng - moá dịch ra chuối vãi), do Go ko có OOP nên mình ko dùng "hướng đối tượng". Tuy nhiên encapsulation giúp em xây dựng abstraction, quản lý code dễ hơn (do scope của method và global function khác nhau). Còn lại e tìm hiểu tiếp nha.
 
 > Tuyển ERP dev nói chung Odoo nói riêng mà tìm người giỏi có nhiều điểm khó và khác với dev thuần. Bởi vì các framework ERP cần 1 thời gian phát triển rất lâu và focus vào các bài toán phức tạp về business nên công nghệ thường cũ, code theo kiểu riêng, ko chạy theo các skills trending, khó làm đẹp cv nên dev fresher ít người theo. Dev ERP thường là làm customization, dựa trên base sẵn nên nếu nắm dc cơ bản thì sau đó rất dễ "làm được" mọi thứ, nhưng để "làm đúng", "làm tốt" thì cần có sự am hiểu business và technical architect, thường là người đã senior 1 công nghệ khác chuyển sang làm. Senior ERP/Odoo hầu như đều có 1 nửa kỹ năng BA và Consultant, thường định hướng lập team riêng nhận dự án triển khai hoặc outsource. Mà đối tượng này thì hoặc chấp nhận mức lương vừa phải nhưng công việc nhàn để có thời gian làm riêng, hoặc kiêm nhiệm nhiều vai trò khác trong các công ty lớn. Fen vào group Odoo trên fb sẽ thấy, thảo luận về tech toàn mấy ông già làm CTO, CEO, Tech Lead, hoặc amateur trái ngành nhảy sang thôi.
-> 
+
+
+**Q**: Môi trường bank học hỏi được gì ko ạ, em  vẫn thích kiểu công ty có sản phẩm gì đó bán rồi mình vô code
+
+**A**: học được nghiệp vụ tốt, chuyển bank khác là lợi thế; học các deal với chính trị, quy trình dày đặc; đi làm có giờ có giấc ăn mặc chỉnh chu tác phong đàng hoàng học được tính kỷ luật. còn về tech thì cũng bình thường. nhiều cái cũng ối dồi ôi lắm
+
+**A**: survival trong 1 công ty toàn chính trị là 1 bản lĩnh
