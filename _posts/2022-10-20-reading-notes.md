@@ -51,3 +51,22 @@ Cảm thấy mình may mắn vì mình không sa đọa. Một phần có lẽ l
 > Niềm vui của việc cho một cách tự nguyện và không giới hạn chuyển thành nỗi lo sợ về việc có thể không được nhận. Người ấy – chồng bạn, người yêu bạn, con bạn – tự nhiên trở thành quá quan trọng với bạn. Bạn lo lắng về những gì có thể xảy ra. Những gì họ sắp làm. Và ở thời điểm đó, tình yêu dừng lại.
 
 > 
+
+**Q**: Theo các bác thì tại sao các ứng dụng như Discord, Slack, Microsoft Teams, Skype, Postman lại chọn Electron framework của js - phổ biến nhưng rất nặng và chậm. Hay 1 số app như Twitter là 1 hybrid, cũng sử dụng js cũng nặng và chậm nhưng chúng vẫn thành công và phổ  biến vậy ạ? Liệu các app đó ban đầu chọn những framework hiệu suất hơn hay native liệu sự thành công của chúng có giảm đi ko?
+
+**A**: Sếp mình bảo ban đầu người ta quan  tâm đến business có kiếm được tiền k. Kiếm được rồi thì đập đi xây lại còn được
+
+
+**Q**: Hi các anh ạ, cho em hỏi với câu hỏi này thì solution tối ưu nhất là như thế nào ạ:
+"Giả sử có một tính năng mới yêu cầu thay đổi tên cột trong cơ sở dữ liệu SQL của bạn, bạn sẽ làm thế nào để thực hiện điều đó mà không bị ngừng hoạt động?"
+
+**A**: tạo col mới, chỉnh code double write data vào, backfill data cũ qua, tạo index mới, switch code qua read col mới, backup data, drop col cũ.
+Câu hỏi này thường lọc đc các ứng viên ko có kinh nghiệm làm với production mà có requirements ít downtime, cần live db migration / rollback. Trả lời là "em nhảy vào chạy command" là tạo ra table lock, dừng transaction thì fail ngay.
+
+**Q**: Cho em hỏi về cấu trúc hiện tại của project em có ổn k.
+Bình thường em thấy các project golang hay làm theo kiểu hàm tạo mới đối tượng rồi kèm theo method của đối tượng đó và truyền connect hay gì gì đó trong context, còn structure hiện tại của em nó cứ như js ý, viết tất cả thành funcion rồi truyền params vào. cho em hỏi các hiện tại em có ổn không, và nếu không thì sự khác biệt là gì.
+
+**A**: Giải thích ngắn gọn là cách của e là "hướng thủ tục" (procedure) còn cái e hay thấy là "encapsulation" (bao đóng - moá dịch ra chuối vãi), do Go ko có OOP nên mình ko dùng "hướng đối tượng". Tuy nhiên encapsulation giúp em xây dựng abstraction, quản lý code dễ hơn (do scope của method và global function khác nhau). Còn lại e tìm hiểu tiếp nha.
+
+> Tuyển ERP dev nói chung Odoo nói riêng mà tìm người giỏi có nhiều điểm khó và khác với dev thuần. Bởi vì các framework ERP cần 1 thời gian phát triển rất lâu và focus vào các bài toán phức tạp về business nên công nghệ thường cũ, code theo kiểu riêng, ko chạy theo các skills trending, khó làm đẹp cv nên dev fresher ít người theo. Dev ERP thường là làm customization, dựa trên base sẵn nên nếu nắm dc cơ bản thì sau đó rất dễ "làm được" mọi thứ, nhưng để "làm đúng", "làm tốt" thì cần có sự am hiểu business và technical architect, thường là người đã senior 1 công nghệ khác chuyển sang làm. Senior ERP/Odoo hầu như đều có 1 nửa kỹ năng BA và Consultant, thường định hướng lập team riêng nhận dự án triển khai hoặc outsource. Mà đối tượng này thì hoặc chấp nhận mức lương vừa phải nhưng công việc nhàn để có thời gian làm riêng, hoặc kiêm nhiệm nhiều vai trò khác trong các công ty lớn. Fen vào group Odoo trên fb sẽ thấy, thảo luận về tech toàn mấy ông già làm CTO, CEO, Tech Lead, hoặc amateur trái ngành nhảy sang thôi.
+> 
