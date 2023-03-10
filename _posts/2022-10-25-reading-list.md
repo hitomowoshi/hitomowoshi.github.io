@@ -137,4 +137,6 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 
 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): source for learn/interview system design interview
 
+[Andrew Gallant's Blog](https://blog.burntsushi.net/)
+
 _Disclaimer: I read a lot, also forget a lot_
