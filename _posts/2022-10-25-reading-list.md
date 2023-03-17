@@ -139,4 +139,6 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 
 [Andrew Gallant's Blog](https://blog.burntsushi.net/)
 
+[Ivan Velichko's Blog](https://iximiuz.com/en/)
+
 _Disclaimer: I read a lot, also forget a lot_
