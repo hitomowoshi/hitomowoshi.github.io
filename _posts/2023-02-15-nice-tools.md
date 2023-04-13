@@ -18,3 +18,7 @@ tags: Random
 [Leetcode](leetcode.com): practice coding with better discussion from community
 
 [Golangprojects](https://www.golangprojects.com/): job board for Golang jobs
+
+[glassdoor](glassdoor.com): If you want to share your experience without being personally identifiable
+
+[Blind](teamblind.com): If you want to share your experience without being personally identifiable

@@ -76,3 +76,49 @@ Bình thường em thấy các project golang hay làm theo kiểu hàm tạo m�
 **A**: học được nghiệp vụ tốt, chuyển bank khác là lợi thế; học các deal với chính trị, quy trình dày đặc; đi làm có giờ có giấc ăn mặc chỉnh chu tác phong đàng hoàng học được tính kỷ luật. còn về tech thì cũng bình thường. nhiều cái cũng ối dồi ôi lắm
 
 **A**: survival trong 1 công ty toàn chính trị là 1 bản lĩnh
+
+**Q**: ...nhiều cty build phần mềm từ đầu tốn nhiều chi phí cho lập trình mà độ ổn định lại kém hơn opensource có sẵn. Tại sao họ ko lấy chi phí đó tập trung vào marketing để nó tới được với những end user ko quan trọng sâu đến công nghệ nào đã tạo ra nó ?
+
+**A1**: Khi return on investment nó tốt thì làm. build or buy bài toán khá đơn giản: 2 cái là solutions cho cùng 1 vấn đề nào đó: feature / fix bug. Cái feature / bug đó đáng giá X dollars.
+Development cost để build from scratch/fork cái opensource thì là:
+(salary per hour * engineering hours) = Y dollars
+
+Cái Y này tối thiểu là nó cần thấp hơn X.
+Sau đó nó sẽ có X-Y1, X-Y2, X-Y3 vì cùng 1 quỹ thời gian, bạn có thể chọn làm các feature khác nhau hoặc fix các bug khác nhau.
+Cần rank tất cả dựa trên cost/return để biết đc cái nào có thể có highest impact thì làm trước.
+vd: Để chạy ecommerce system nhanh hơn thì có thể tằng page size của kernel từ 4bytes lên 128bytes. Chạy nhanh hơn thì đỡ cost infra hơn -> giảm infra cost đc 10k 1 tháng
+
+Cost để fork linux kernel để tăng page size:
+- Inigital developement: 5 engineers * (8h * 5d) = 200 eng hours
+- Long term maintenance: 8h * 5d * 1 engineer = 40 eng hours / month
+
+Vậy cost cho 1 năm là 680 eng hours. 
+Nếu trả engineer hơn đc 10_000 / 680 = 14.7 USD / h (3k / tháng) thì ko đáng 🙂
+good luck kiếm đc C engineer để fork kernel dưới 3k 1 tháng :))
+
+**Q**: Đi phỏng vấn nhận được câu xử lý 1tr rq/s thì trả lời sao cho hay các bác nhỉ.
+
+**A1**: Đầu tiên hỏi a có thể làm rõ đề bài
+Nếu k e sẽ có list câu hỏi để làm rõ 😅😁
+List câu hỏi càng mạnh và 
+Clear thì đc đánh giá càng cao, sát thực tế
+Từ networl Lb, smart traffic, cache, db, backend, all
+
+**A2**: Cache có vài loại sài loại nào cho business nào , cache ở layer nào , tương tự lb cũng có lb giữa svc với svc , lb giữa user với server , lb dns blablo =))) cứ có tiền thì được hết
+
+**A**: > 1tr request 
+
+Nên bắt đầu hỏi lại cho rõ ý đề bài:
+- Network bandwidth ntn (1G, 10G?)
+- 1 request nặng bao nhiêu (4kb, 18kb, 10MB, etc...)
+
+Từ đó sẽ suy ra đc là mỗi máy nhận đc tối đa bao nhiêu request dựa trên network. Nếu nhiều máy thì cũng suy ra đc là cần bao nhiêu Load Balancer.
+
+Sau đó tuỳ đề có thể đi vào data structure/schema design để giảm payload size, hay là compute requirement cho mỗi request (CPU/RAM) để triển khai thêm.
+
+1000 requests thì read/write ratio vào DB ntn, scale DB ra sao cũng là 1 hướng khác.
+
+**Q**: Tôi có 1m rps trừ hàng trong inventory, realtime cao, ACID TUYỆT ĐỐI, user không được mua hàng khi kho hết
+Hãy thiết kế hệ thống chạy trơn tru, không lỗi,  triển khai optimal riêng theo solution của bạn. Mỗi phần thiết kế hãy trích cơ sở lý thuyết của solution đó :)))
+
+**A**: Doạ đc junior thôi, chứ pv senior trở lên thì đều là 2 bên pv nhau: cty có thể đánh rớt ứng viên và ứng viên có thể đánh rớt cty. Cty hỏi tào lao thì lương phải đáng kể mới làm. Cty hỏi nghiêm túc, thực tế thì hấp dẫn ứng viên hơn
