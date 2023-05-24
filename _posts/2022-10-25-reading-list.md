@@ -141,4 +141,6 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 
 [Ivan Velichko's Blog](https://iximiuz.com/en/)
 
+[Artem's blog](https://redd.one/blog)
+
 _Disclaimer: I read a lot, also forget a lot_
