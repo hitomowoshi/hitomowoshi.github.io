@@ -122,3 +122,7 @@ Sau đó tuỳ đề có thể đi vào data structure/schema design để giả
 Hãy thiết kế hệ thống chạy trơn tru, không lỗi,  triển khai optimal riêng theo solution của bạn. Mỗi phần thiết kế hãy trích cơ sở lý thuyết của solution đó :)))
 
 **A**: Doạ đc junior thôi, chứ pv senior trở lên thì đều là 2 bên pv nhau: cty có thể đánh rớt ứng viên và ứng viên có thể đánh rớt cty. Cty hỏi tào lao thì lương phải đáng kể mới làm. Cty hỏi nghiêm túc, thực tế thì hấp dẫn ứng viên hơn
+
+> Professionals speack truth to power. Professionals have the courage to say no to their managers.
+>
+> -- Clean Code by Robert C. Martin

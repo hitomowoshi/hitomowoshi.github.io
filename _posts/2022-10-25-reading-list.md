@@ -87,7 +87,7 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :heavy_check_mark: [PostgreSQL Concurrency with MVCC](https://devcenter.heroku.com/articles/postgresql-concurrency)
 
-:meme: :books: [Đĩ Nghiện Code Thuật Vấn đáp](https://viblo.asia/s/di-nghien-code-thuat-van-dap-JzKmg8nPl9N)
+:memo: :books: [Đĩ Nghiện Code Thuật Vấn đáp](https://viblo.asia/s/di-nghien-code-thuat-van-dap-JzKmg8nPl9N)
 
 # Lives & Works
 
@@ -123,6 +123,8 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :heavy_check_mark: [Defy distractions at work](https://kairsten-fay.medium.com/defy-distractions-at-work-5debcf571b9e)
 
+:eyes: [Being a good mentor - a developer guide](https://vadimkravcenko.com/shorts/good-mentor/)
+
 # Blogs
 
 Here comes list of blogs that I want to follow, interesting sources of value posts.
@@ -142,5 +144,7 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 [Ivan Velichko's Blog](https://iximiuz.com/en/)
 
 [Artem's blog](https://redd.one/blog)
+
+[vadim kravcenko](https://vadimkravcenko.com/)
 
 _Disclaimer: I read a lot, also forget a lot_
