@@ -117,7 +117,7 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :eyes: :upside_down_face: :dizzy_face: Những lời giáo huấn của Epictetus - Epictetus
 
-:meme: Cracking the Coding Interview
+:memo: Cracking the Coding Interview
 
 :heavy_check_mark: :arrows_counterclockwise: [My Google Technical Interview Cheat Sheet](https://dev.to/elliot/my-google-technical-interview-cheat-sheet-1lbd)
 

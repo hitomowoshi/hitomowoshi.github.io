@@ -211,3 +211,20 @@ SQL Server và MySQL không hỗ trợ FBI nhưng chúng ta có thể đánh ind
   **Limit**: Aborts the underlying operations when the desired number of rows has been fetched.
 
   **WindowAgg**: PostgreSQL cannot use conditions on the result of window functions to abort top-N queries.
+
+
+
+
+# Communication
+
+## Common
+
+- menu
+- step by step
+- one and only one terminology to express a thing
+- screenshot rather than just url (but both is better)
+- environment is neccessary
+- current behavior first
+- clue is good, but dont mix it with other section
+- if u met the problem before, say it
+- for features, writing is better than talking
