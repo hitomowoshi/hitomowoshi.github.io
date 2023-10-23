@@ -8,6 +8,8 @@ sticky: true
 hidden: true
 ---
 
+Mine is not in block quote.
+
 # Design patterns in Golang
 
 <blockquote class="blockquote">
@@ -43,12 +45,31 @@ This topic make me think that I should do something to prevent this
 
 # Mechanical Sympathy
 
-Ngày trước, trong lúc mood mình đang khá tệ thì sếp Andrew có lôi mình đi ăn. Lúc đó sếp có nói một ý, đại loại là sứ mệnh của công ty, cụ thể ơn là công việc mình đang làm là mang lại value cho doanh nghiệp. Nếu như mang lại giá trị cho khách hàng/doanh nghiệp không phải là mục tiêu của mình, vậy thì có lẽ mình sẽ không đi được lâu theo con đường này.
-
-Sau bữa đó cứ băn khoăn tự hỏi mãi, rốt cuộc mình có đang làm việc vì mang lại lợi ích, giá trị cho khách hàng, cho doanh nghiệp của mình không. Nói có thì không đúng, nhưng nếu như là không, vậy thì mục tiêu mình hướng đến là gì? Và nếu như nó khác với định hướng chiến lược của công ty thì mình phải chuẩn bị cho một ngày không xa mình rời khỏi tổ chức này, vậy mình đã chuẩn bị được gì cho cái viễn cảnh đó chưa.
-
-Làm khách hàng hài lòng chắc chắn không phải là thứ mình hướng đến tuy nhiên công việc hiện tại mình lại phải làm việc với khách hàng rất nhiều. Đương nhiên làm việc thì giao tiếp là cần thiết, nhưng mình cần một môi trường mà sự giao tiếp dùng để hợp tác, giúp đỡ nhau tìm ra giải pháp, người giỏi giúp đỡ người mới, nếu ai cũng không biết làm thì cùng nhau tìm kiếm giải pháp bên ngoài, gather thêm những người có năng lực để cùng nhau khắc phục vấn đề hơn là những câu chuyện xoi xét, blame đồng đội, nhờ vả, đùn đẩy công việc và dùng những cách nói chuyện như ??? IN HOA TOÀN BỘ MESSAGE inbox kín để complain. Nó không giải quyết được việc gì ngoài việc lan tỏa sự toxic ra xung quanh. Mình rất mệt mỏi với những sự toxic kiểu như vậy.
-
-Thôi dừng =))) càm ràm đủ rồi giờ thì vào vấn đề chính, cái idea này khá là hay. Và mình thấy nó là một solution phù hợp với mình. Mình quá mệt mỏi khi phải giao tiếp với con người, luôn luôn sợ làm người khác tự ái, luôn sợ làm phiền người khác, luôn sợ sự đen tối và toxic của mình làm ảnh hưởng đến năng lượng của người khác, luôn mệt mỏi vì cảm thấy hối hận vì lỡ vụng miệng nói gì đó không hợp tình huống nhưng lại chẳng dám xin lỗi vì cứ băn khoăn không biết người ta có để ý hay không. Vậy thì để đỡ mệt mỏi thì thôi, đừng cứ để đầu óc xoay lòng vòng quanh những người khác, kệ cmn khách hàng đi, mày viết code cho ai? Đương nhiên là cho máy tính chạy, vậy thì hãy nghĩ cho máy, cho chiếc server đang chạy những dòng code của mày, viết sao cho nó *sống* một cách có ích, sao cho nó làm việc một cách logic đúng như sự logic vốn có của nó, 0 là 0 mà 1 là 1. Viết sao cho nó đừng bị quá tải, đừng làm nó mệt, dùng bất kỳ framework nào cũng hay tôn trọng nó, hiểu nó trước khi muốn nó biến thành hình hài nào mới, trước khi định vặt tay bẻ chân tính năng của nó. Lập trình nhiều khi có những logic rất phức tạp nhưng chắc chắn là nó sẽ không khó chịu như việc mày phải deal với ty tỷ kiểu người khác nhau trên thế giới này.
-
 **Mechanical Sympathy** - Khi hệ thống chậm bạn nghĩ đến điều gì? Hãy nghĩ đến làm sao cho code của mình thân thiện, đồng điệu và họat động tốt hơn với phần cứng trước khi nghĩ đến scaling. (lập trình phần mềm đồng điệu với phần cứng - hardware and software working together in harmony)
+
+# Viết rồi xóa
+
+Có một điều khá hay là ở topic bên trên (Mechanical Sympathy) mình vent khá nhiều, và hôm nay đọc lại, mình quyết định xóa hết mấy cái vent đó. Đọc lại những thứ viết ra trong lúc cảm xúc lên cao thì thấy nó rất chuối, không hiểu sao lúc đó mình lại có suy nghĩ như vậy
+
+# Câu trả lời mà mình ghét nhất
+
+<blockquote class="blockquote">
+    <div class="quote-content">Em không biết</div>
+</blockquote>
+
+Có thể có người sẽ biện minh "Em không biết nên em không có lỗi", nhưng thay vì "Em không biết" hay đưa ra một câu trả lời có nhiều thông tin hơn:
+
+- Em không biết vậy ai biết, em biết không?
+- Em không biết hay thông tin đó chưa official và em không chắc -> "Các sếp đang abc nên chưa quyết định xyz"
+- Em không biết nhưng em là người làm việc trực tiếp với khách hàng, giờ khách hàng hỏi em câu đó em cũng nói là em không biết?
+- Em không biết nhưng em biết nó ở đâu -> "Chờ em xem lại abc rồi trả lời nha" hoặc "Chị vào chỗ này mà xem"
+- Em không biết và chị hỏi sai người rồi -> "Chị đi hỏi ông abc ấy"
+- Em không biết và em không biết là em cần phải biết cái đó -> "Tại sao chị lại nghĩ em biết cái đó?"
+
+Trả lời "Em không biết" chỉ cho thấy sư bàn quan và thờ ơ của em với vấn đề mà người hỏi đang quan tâm thôi, kiểu như nói "Em không care" ấy
+
+# Task này dễ lắm chị giúp em đi, có 5 phút thôi
+
+Đây là câu nói khiến mình sởn gai ốc nhất
+
+- Con người không bao giờ tắm hai lần trên một dòng sông, năm trước người ta làm cho em, em nghĩ năm nay họ vẫn sẽ làm cho em sao?

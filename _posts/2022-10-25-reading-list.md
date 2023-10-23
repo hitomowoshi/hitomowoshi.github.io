@@ -125,6 +125,8 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :eyes: [Being a good mentor - a developer guide](https://vadimkravcenko.com/shorts/good-mentor/)
 
+:eyes: [Redirect after POST](https://www.theserverside.com/news/1365146/Redirect-After-Post)
+
 # Blogs
 
 Here comes list of blogs that I want to follow, interesting sources of value posts.
@@ -146,5 +148,7 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 [Artem's blog](https://redd.one/blog)
 
 [vadim kravcenko](https://vadimkravcenko.com/)
+
+[giaosucan](https://www.giaosucan.com/)
 
 _Disclaimer: I read a lot, also forget a lot_
