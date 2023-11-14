@@ -53,6 +53,8 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :memo: :books: [From 0 to Millions: A Guide to Scaling Your App](https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling)
 
+:upside_down_face: [How NAT tranversal works](https://tailscale.com/blog/how-nat-traversal-works)
+
 # Golang
 
 :heavy_check_mark: [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
@@ -127,11 +129,15 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :eyes: [Redirect after POST](https://www.theserverside.com/news/1365146/Redirect-After-Post)
 
+:heavy_check_mark: :arrows_counterclockwise: [35 questions you should ask while interviewing](https://levelupsoftwareengineering.substack.com/p/35-questions-to-ask-while-interviewing)
+
+
+
 # Blogs
 
 Here comes list of blogs that I want to follow, interesting sources of value posts.
 
-[https://cuonglm.xyz/post/](https://cuonglm.xyz/post/)
+[https://cuonglm.xyz/post/](https://cuonglm.xyz/post/) - A silent hero
 
 [https://holdenrehg.com/blog](https://holdenrehg.com/blog)
 
@@ -150,5 +156,7 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 [vadim kravcenko](https://vadimkravcenko.com/)
 
 [giaosucan](https://www.giaosucan.com/)
+
+[Level up software engineering](https://levelupsoftwareengineering.substack.com/)
 
 _Disclaimer: I read a lot, also forget a lot_

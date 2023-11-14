@@ -57,6 +57,8 @@ Có một điều khá hay là ở topic bên trên (Mechanical Sympathy) mình 
     <div class="quote-content">Em không biết</div>
 </blockquote>
 
+Và đặc biệt, khi câu nói đó được thốt lên một cách rất tự nhiên như một phản xạ.
+
 Có thể có người sẽ biện minh "Em không biết nên em không có lỗi", nhưng thay vì "Em không biết" hay đưa ra một câu trả lời có nhiều thông tin hơn:
 
 - Em không biết vậy ai biết, em biết không?
@@ -70,6 +72,14 @@ Trả lời "Em không biết" chỉ cho thấy sư bàn quan và thờ ơ của
 
 # Task này dễ lắm chị giúp em đi, có 5 phút thôi
 
-Đây là câu nói khiến mình sởn gai ốc nhất
+Be bold, be brave to say no
 
-- Con người không bao giờ tắm hai lần trên một dòng sông, năm trước người ta làm cho em, em nghĩ năm nay họ vẫn sẽ làm cho em sao?
+
+<blockquote class="blockquote">
+    <div class="quote-content">Premature optimization is the root of all evil</div>
+</blockquote>
+
+The full version of the quote is "We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil."  
+
+Its usually not worth spending a lot of time micro-optimizing code before its obvious where the
+performance bottlenecks are

@@ -126,3 +126,13 @@ Hãy thiết kế hệ thống chạy trơn tru, không lỗi,  triển khai opt
 > Professionals speack truth to power. Professionals have the courage to say no to their managers.
 >
 > -- Clean Code by Robert C. Martin
+
+> Nên chọn chỗ nào nhiều tiền
+> Vì đằng đéo nào sau này em cũng không thích cả 2
+> Xưa bị sếp vặt quá, hoá ra sếp đã đc tự do tài chính, ngồi thở không cũng có tiền
+> Nên mấy sếp nói hay lắm
+> Thì đéo phá là vẫn có đạo đức nghề nghiệp rồi
+> Cái nào hiệu quả đơn giản dễ thì làm. Có hoa hồng cao thì càng nên làm, miễn đáp ứng đc các yêu cầu kĩ thuật
+> nên là, thôi, bớt chửi lũ fake engineer lại, chúng nó giàu hơn mình
+> ở cái xứ làm engineer nghèo như chó này, thì thằng thẳng lưng là dị tật, thôi gù tí mà no đủ cho cả nhà =))
+
