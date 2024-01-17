@@ -159,4 +159,6 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 
 [Level up software engineering](https://levelupsoftwareengineering.substack.com/)
 
+[Plainenglish](https://plainenglish.io/)
+
 _Disclaimer: I read a lot, also forget a lot_

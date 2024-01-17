@@ -212,6 +212,12 @@ SQL Server và MySQL không hỗ trợ FBI nhưng chúng ta có thể đánh ind
 
   **WindowAgg**: PostgreSQL cannot use conditions on the result of window functions to abort top-N queries.
 
+  - Giá trị thống kê quan trọng nhất cho một **bảng**  là kích cỡ của bảng (só dòng hoặc số block)
+  - Giá trị thống kê quan trọng nhất cho một **index** là độ sâu của tree, số leaf node, distinct key và clustering
+  - Selectivity = (cardinality/tổng số bản ghi)*100
+  - Dưới góc nhìn của database, index đánh trên last_name và upper(last_name) là hoàn toàn khác nhau
+**TODO** cơ chế update dữ liệu statistics trên các DBMS
+
 
 
 
