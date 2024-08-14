@@ -131,6 +131,8 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :heavy_check_mark: :arrows_counterclockwise: [35 questions you should ask while interviewing](https://levelupsoftwareengineering.substack.com/p/35-questions-to-ask-while-interviewing)
 
+:heavy_check_mark: [Center for Strategic & International Studies](https://www.csis.org)
+
 
 
 # Blogs
@@ -160,5 +162,7 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 [Level up software engineering](https://levelupsoftwareengineering.substack.com/)
 
 [Plainenglish](https://plainenglish.io/)
+
+[Booking.com Tech Blog](https://blog.booking.com/)
 
 _Disclaimer: I read a lot, also forget a lot_
