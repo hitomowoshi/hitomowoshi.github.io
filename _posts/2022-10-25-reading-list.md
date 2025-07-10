@@ -23,7 +23,7 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :put_litter_in_its_place: - stop reading for now
 
-:heavy_check_mark: - Donw, from start to finish (more or less)
+:heavy_check_mark: - Done, from start to finish (more or less)
 
 :headphones: - audio format
 
@@ -133,7 +133,7 @@ Inspired by [@richstone](https://richstone.io/reading-list/)
 
 :heavy_check_mark: [Center for Strategic & International Studies](https://www.csis.org)
 
-
+:heavy_check_mark: [Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
 
 # Blogs
 
