@@ -83,3 +83,9 @@ The full version of the quote is "We should forget about small efficiencies, say
 
 Its usually not worth spending a lot of time micro-optimizing code before its obvious where the
 performance bottlenecks are
+
+# The Clean Coder
+
+<blockquote class="blockquote">
+    <div class="quote-content">Hope is the project killer. Hope destroys schedules and reputations. …, don’t let up until there is a fall-back plan. Don’t let anyone else have hope.</div>
+</blockquote>
