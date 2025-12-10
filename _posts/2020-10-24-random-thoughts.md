@@ -89,3 +89,14 @@ performance bottlenecks are
 <blockquote class="blockquote">
     <div class="quote-content">Hope is the project killer. Hope destroys schedules and reputations. …, don’t let up until there is a fall-back plan. Don’t let anyone else have hope.</div>
 </blockquote>
+
+# Ngự
+
+<blockquote class="blockquote">
+    <div class="quote-content">Lòng tham luôn tìm được cách đứng chung với những cảm xúc khác. Nó không cần tách ra để tồn tại. Nó có thể sống cùng tình thương, cùng sự hi sinh, cùng những việc tử tế. Một người có thể vừa chăm sóc gia đình rất chu đáo, vừa âm thầm lấy thêm phần cho mình. Hai mặt ấy cùng tồn tại mà không triệt tiêu nhau. Điều này khiến việc nhận diện lòng tham trở nên khó khăn hơn rất nhiều. Thời đại bây giờ khiến chúng ta không thể đơn giản chia con người thành tốt và xấu.</div>
+</blockquote>
+
+<blockquote class="blockquote">
+    <div class="quote-content">Tử tế không phải thiên bẩm. Tử tế là thứ con người học được thông qua hàng nghìn lần lặp lại của những người xung quanh. Một lời cảm ơn, một lời xin lỗi, một lời chào nhận lại. Khi xã hội tạo ra đủ nhiều khoảnh khắc như vậy, những bạn trẻ đang ngại giao tiếp sẽ dần bước ra khỏi lớp vỏ của mình.</div>
+</blockquote>
+

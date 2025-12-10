@@ -145,7 +145,7 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 
 [**paid**] [ByteByteGo](https://blog.bytebytego.com/)
 
-[kairsten-fay.medium.com](https://kairsten-fay.medium.com/) blog của chị Kairsten Fay
+[kairsten-fay.medium.com](https://kairsten-fay.medium.com/) Kairsten Fay's blog
 
 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): source for learn/interview system design interview
 
@@ -164,5 +164,7 @@ Here comes list of blogs that I want to follow, interesting sources of value pos
 [Plainenglish](https://plainenglish.io/)
 
 [Booking.com Tech Blog](https://blog.booking.com/)
+
+[Ngự (Facebook)](https://www.facebook.com/chuarachnhungvetthuonglanh29) A healing writer
 
 _Disclaimer: I read a lot, also forget a lot_
