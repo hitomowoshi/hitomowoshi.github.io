@@ -7,49 +7,49 @@ tags: Life
 
 # Một đoạn đường núi
 
-Phiến đá xanh lưu lại giấc mộng ai kia
+Phiến đá xanh lưu giữ giấc mơ của ai
 
-Một hồi mưa thu khiến hoa rơi đầy mặt đất
+Cơn mưa thu rơi rụng đầy hoa trên lối
 
-Kẻ lữ khách bước chân vội vã
+Lữ khách vội vã bước chân qua chặng đường dài
 
-Bốn mùa không nghỉ tới thăm nom nhà nhà
-
-
-Dường như đêm trước sắc trời bất chợt xẻ ngang bóng núi xa
-
-Bỗng nhớ những điều chúng ta quên nói ra đã từ rất lâu về trước
-
-Bước qua một khúc quanh co, lại một đoạn trắc trở
-
-Đi không nổi, nhìn chẳng ra
+Đi qua bốn mùa, ghé thăm từng mái ấm
 
 
-Sương mù chốn sơn cốc hôn nhẹ đám mây
+Tựa như ánh bình minh chợt phá vỡ đường nét của ngọn núi xa tắp từ đêm qua
 
-Giấu mình dưới lớp lá khô là biết bao tâm tình chưa nói
+Chợt nhớ lại điều mà từ lâu lắm rồi chúng ta quên chưa nói
 
-Cánh chim về tổ cắt ngang qua khoảng trời
+Hết khúc quanh co này lại đến ngổn ngang trắc trở
 
-Hắn không hỏi, người cũng chẳng đáp lời
-
-
-Dường như đêm trước sắc trời bất chợt xẻ ngang bóng núi xa
-
-Bỗng nhớ những điều chúng ta quên nói ra đã từ rất lâu về trước
-
-Bước qua một khúc quanh co, lại một đoạn trắc trở
-
-Đi không nổi, nhìn chẳng ra
+Bước không qua, mà nhìn cũng chẳng thấu
 
 
-Dòng nước róc rách vắt ngang chảy về phía rặng núi sừng sững
+Sương mù nơi thung lũng khẽ hôn lên làn mây khói
 
-Thật giống như người bao năm qua đi vẫn cố chấp như xưa
+Bên dưới lớp lá khô cất giấu biết bao lời tâm tình
 
-Phải chăng mây trắng cũng đã nghe thấy câu chuyện người kể
+Chú chim vội bay cắt ngang qua bầu trời
 
-Nên cứ thế cười người, cười ta
+Nó chẳng hỏi, mà bạn cũng chẳng đáp lời
+
+
+Tựa như ánh bình minh chợt phá vỡ đường nét của ngọn núi xa tắp từ đêm qua
+
+Chợt nhớ lại điều mà từ lâu lắm rồi chúng ta quên chưa nói
+
+Hết khúc quanh co này lại đến ngổn ngang trắc trở
+
+Bước không qua, mà nhìn cũng chẳng thấu
+
+
+Dòng nước róc rách cuối cùng cũng vượt qua hết ngọn núi này đến ngọn núi khác
+
+Tựa như sau bao nhiêu năm tháng, cậu vẫn giữ trọn nét kiên định thuở ban đầu
+
+Liệu những tầng mây trắng có từng nghe thấu lời tâm sự của cậu
+
+Cười ngậm ngùi cho tôi, và cho cả chính cậu
 
 
 Phải chăng mây trắng cũng đã nghe thấy câu chuyện người kể

@@ -100,3 +100,9 @@ performance bottlenecks are
     <div class="quote-content">Tử tế không phải thiên bẩm. Tử tế là thứ con người học được thông qua hàng nghìn lần lặp lại của những người xung quanh. Một lời cảm ơn, một lời xin lỗi, một lời chào nhận lại. Khi xã hội tạo ra đủ nhiều khoảnh khắc như vậy, những bạn trẻ đang ngại giao tiếp sẽ dần bước ra khỏi lớp vỏ của mình.</div>
 </blockquote>
 
+# Random
+
+
+<blockquote class="blockquote">
+    <div class="quote-content">Những cuộc hôn nhân coi tình yêu như tình thân chỉ thuộc về những người lười biếng, không muốn sự bình đẳng, không muốn cho đi quá nhiều.</div>
+</blockquote>
